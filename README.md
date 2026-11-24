@@ -1,11 +1,5 @@
 # SCGP: Single-Cell anchored Genetic Prioritisation
 
-Companion code for: *From kidney single-cell states to blood-accessible secreted candidates: a reproducible prioritisation resource for chronic kidney disease* (Journal of Translational Medicine submission).
-
-Reproducible, public-data-only pipeline. Every reported result is computed
-by the scripts in this package from public inputs; nothing is hand-entered.
-Each step logs its inputs, parameters and outputs to `results/logs/`.
-
 ## Quick start
 
 ```bash
