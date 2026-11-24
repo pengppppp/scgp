@@ -1,0 +1,203 @@
+[06:19:10] coloc: 4 genes x 6 endpoints; JWT=set
+[06:20:49] eQTLGen pass: 127,341,798 rows in 99s
+[06:20:50] FinnGen target rsIDs: 94,069
+[06:21:09]   N14_CHRONKIDNEYDIS: 65,556 rows in 19s
+[06:21:29]   N14_RENFAIL: 65,556 rows in 20s
+[06:21:48]   N14_RENALTUB: 65,556 rows in 20s
+[06:22:08]   DM_NEPHROPATHY: 65,555 rows in 20s
+[06:22:28]   N14_IGA_NEPHROPATHY: 65,556 rows in 20s
+[06:22:48]   I9_HYPTENSRD: 65,555 rows in 20s
+[06:23:06] LOXL4: 5734 regional SNPs across 6 endpoints; pruning...
+[06:26:19]   prune_region round 1: 5734 -> 1019
+[06:27:03]   prune_region round 2: 1019 -> 480
+[06:27:20]   prune_region round 3: 480 -> 288
+[06:27:35]   prune_region round 4: 288 -> 226
+[06:27:43] LOXL4: 200 approximately independent SNPs
+[06:27:43] LOXL4 N14_CHRONKIDNEYDIS: PP.H4=0.130 (n=200)
+[06:27:43] LOXL4 N14_RENFAIL: PP.H4=0.960 (n=200)
+[06:27:43] LOXL4 N14_RENALTUB: PP.H4=0.032 (n=200)
+[06:27:43] LOXL4 DM_NEPHROPATHY: PP.H4=0.291 (n=200)
+[06:27:43] LOXL4 N14_IGA_NEPHROPATHY: PP.H4=0.026 (n=200)
+[06:27:43] LOXL4 I9_HYPTENSRD: PP.H4=0.143 (n=200)
+[06:27:56] TUFT1: 4239 regional SNPs across 6 endpoints; pruning...
+[06:30:43]   prune_region round 1: 4239 -> 599
+[06:31:16]   prune_region round 2: 599 -> 227
+[06:31:25] TUFT1: 120 approximately independent SNPs
+[06:31:25] TUFT1 N14_CHRONKIDNEYDIS: PP.H4=0.301 (n=120)
+[06:31:25] TUFT1 N14_RENFAIL: PP.H4=0.073 (n=120)
+[06:31:25] TUFT1 N14_RENALTUB: PP.H4=0.203 (n=120)
+[06:31:25] TUFT1 DM_NEPHROPATHY: PP.H4=0.726 (n=120)
+[06:31:25] TUFT1 N14_IGA_NEPHROPATHY: PP.H4=0.028 (n=120)
+[06:31:25] TUFT1 I9_HYPTENSRD: PP.H4=0.026 (n=120)
+[06:31:49] CASP7: 5748 regional SNPs across 6 endpoints; pruning...
+[06:35:05]   prune_region round 1: 5748 -> 1236
+[06:35:55]   prune_region round 2: 1236 -> 647
+[06:36:19]   prune_region round 3: 647 -> 494
+[06:36:42]   prune_region round 4: 494 -> 412
+[06:36:57]   prune_region round 5: 412 -> 381
+[06:37:16]   prune_region round 6: 381 -> 365
+[06:37:34]   prune_region round 7: 365 -> 357
+[06:37:52]   prune_region round 8: 357 -> 353
+[06:38:07]   prune_region round 9: 353 -> 352
+[06:38:22]   prune_region round 10: 352 -> 351
+[06:38:37]   prune_region round 11: 351 -> 350
+[06:38:52]   prune_region round 12: 350 -> 350
+[06:38:52]   prune_region: converged (no further shrinkage)
+[06:39:07] CASP7: 350 approximately independent SNPs
+[06:39:07] CASP7 N14_CHRONKIDNEYDIS: PP.H4=nan (n=348)
+[06:39:07] CASP7 N14_RENFAIL: PP.H4=nan (n=348)
+[06:39:07] CASP7 N14_RENALTUB: PP.H4=nan (n=348)
+[06:39:07] CASP7 DM_NEPHROPATHY: PP.H4=nan (n=349)
+[06:39:07] CASP7 N14_IGA_NEPHROPATHY: PP.H4=nan (n=348)
+[06:39:07] CASP7 I9_HYPTENSRD: PP.H4=nan (n=349)
+[06:39:39] NID2: 7097 regional SNPs across 6 endpoints; pruning...
+[06:43:29]   prune_region round 1: 7097 -> 1568
+[06:44:23]   prune_region round 2: 1568 -> 719
+[06:44:47]   prune_region round 3: 719 -> 439
+[06:45:02]   prune_region round 4: 439 -> 337
+[06:45:17]   prune_region round 5: 337 -> 294
+[06:45:31]   prune_region round 6: 294 -> 260
+[06:45:45]   prune_region round 7: 260 -> 240
+[06:45:53] NID2: 229 approximately independent SNPs
+[06:45:53] NID2 N14_CHRONKIDNEYDIS: PP.H4=0.071 (n=229)
+[06:45:53] NID2 N14_RENFAIL: PP.H4=0.082 (n=229)
+[06:45:53] NID2 N14_RENALTUB: PP.H4=0.007 (n=229)
+[06:45:53] NID2 DM_NEPHROPATHY: PP.H4=0.134 (n=229)
+[06:45:53] NID2 N14_IGA_NEPHROPATHY: PP.H4=0.029 (n=229)
+[06:45:53] NID2 I9_HYPTENSRD: PP.H4=0.258 (n=229)
+[06:46:10] C2: 4662 regional SNPs across 6 endpoints; pruning...
+[06:48:46]   prune_region round 1: 4662 -> 504
+[06:49:08]   prune_region round 2: 504 -> 146
+[06:49:16] C2: 85 approximately independent SNPs
+[06:49:16] C2 N14_CHRONKIDNEYDIS: PP.H4=0.000 (n=85)
+[06:49:16] C2 N14_RENFAIL: PP.H4=0.000 (n=85)
+[06:49:16] C2 N14_RENALTUB: PP.H4=0.000 (n=85)
+[06:49:16] C2 DM_NEPHROPATHY: PP.H4=0.000 (n=85)
+[06:49:16] C2 N14_IGA_NEPHROPATHY: PP.H4=0.076 (n=85)
+[06:49:16] C2 I9_HYPTENSRD: PP.H4=0.041 (n=85)
+[06:49:43] TGFB3: 6110 regional SNPs across 6 endpoints; pruning...
+[06:53:02]   prune_region round 1: 6110 -> 1523
+[06:53:58]   prune_region round 2: 1523 -> 856
+[06:54:29]   prune_region round 3: 856 -> 613
+[06:54:52]   prune_region round 4: 613 -> 501
+[06:55:14]   prune_region round 5: 501 -> 428
+[06:55:30]   prune_region round 6: 428 -> 401
+[06:55:46]   prune_region round 7: 401 -> 393
+[06:56:01]   prune_region round 8: 393 -> 388
+[06:56:16]   prune_region round 9: 388 -> 386
+[06:56:32]   prune_region round 10: 386 -> 386
+[06:56:32]   prune_region: converged (no further shrinkage)
+[06:56:47] TGFB3: 386 approximately independent SNPs
+[06:56:47] TGFB3 N14_CHRONKIDNEYDIS: PP.H4=0.261 (n=386)
+[06:56:47] TGFB3 N14_RENFAIL: PP.H4=0.667 (n=386)
+[06:56:47] TGFB3 N14_RENALTUB: PP.H4=0.277 (n=386)
+[06:56:47] TGFB3 DM_NEPHROPATHY: PP.H4=0.073 (n=385)
+[06:56:47] TGFB3 N14_IGA_NEPHROPATHY: PP.H4=0.070 (n=386)
+[06:56:47] TGFB3 I9_HYPTENSRD: PP.H4=0.052 (n=386)
+[06:57:21] CHSY1: 6926 regional SNPs across 6 endpoints; pruning...
+[07:01:05]   prune_region round 1: 6926 -> 1753
+[07:02:07]   prune_region round 2: 1753 -> 959
+[07:02:39]   prune_region round 3: 959 -> 668
+[07:03:07]   prune_region round 4: 668 -> 556
+[07:03:32]   prune_region round 5: 556 -> 481
+[07:03:55]   prune_region round 6: 481 -> 441
+[07:04:11]   prune_region round 7: 441 -> 434
+[07:04:26]   prune_region round 8: 434 -> 430
+[07:04:42]   prune_region round 9: 430 -> 427
+[07:04:58]   prune_region round 10: 427 -> 425
+[07:05:13]   prune_region round 11: 425 -> 424
+[07:05:34]   prune_region round 12: 424 -> 424
+[07:05:34]   prune_region: converged (no further shrinkage)
+[07:05:50] CHSY1: 424 approximately independent SNPs
+[07:05:50] CHSY1 N14_CHRONKIDNEYDIS: PP.H4=nan (n=422)
+[07:05:50] CHSY1 N14_RENFAIL: PP.H4=nan (n=422)
+[07:05:50] CHSY1 N14_RENALTUB: PP.H4=nan (n=422)
+[07:05:50] CHSY1 DM_NEPHROPATHY: PP.H4=nan (n=423)
+[07:05:50] CHSY1 N14_IGA_NEPHROPATHY: PP.H4=nan (n=422)
+[07:05:50] CHSY1 I9_HYPTENSRD: PP.H4=nan (n=422)
+[07:06:30] ST3GAL4: 6814 regional SNPs across 6 endpoints; pruning...
+[07:09:11]   ld/matrix HTTP 502
+[07:10:26]   prune_region round 1: 6814 -> 1545
+[07:11:20]   prune_region round 2: 1545 -> 786
+[07:11:54]   prune_region round 3: 786 -> 556
+[07:12:22]   prune_region round 4: 556 -> 437
+[07:12:38]   prune_region round 5: 437 -> 365
+[07:12:54]   prune_region round 6: 365 -> 344
+[07:13:15]   prune_region round 7: 344 -> 330
+[07:13:29]   prune_region round 8: 330 -> 322
+[07:13:44]   prune_region round 9: 322 -> 316
+[07:14:01]   prune_region round 10: 316 -> 313
+[07:14:16]   prune_region round 11: 313 -> 312
+[07:14:31]   prune_region round 12: 312 -> 312
+[07:14:31]   prune_region: converged (no further shrinkage)
+[07:14:46] ST3GAL4: 312 approximately independent SNPs
+[07:14:46] ST3GAL4 N14_CHRONKIDNEYDIS: PP.H4=0.261 (n=312)
+[07:14:46] ST3GAL4 N14_RENFAIL: PP.H4=0.135 (n=312)
+[07:14:46] ST3GAL4 N14_RENALTUB: PP.H4=0.021 (n=312)
+[07:14:46] ST3GAL4 DM_NEPHROPATHY: PP.H4=0.090 (n=312)
+[07:14:46] ST3GAL4 N14_IGA_NEPHROPATHY: PP.H4=0.031 (n=312)
+[07:14:46] ST3GAL4 I9_HYPTENSRD: PP.H4=0.024 (n=312)
+[07:15:02] CD14: 4331 regional SNPs across 6 endpoints; pruning...
+[07:17:32]   prune_region round 1: 4331 -> 545
+[07:17:55]   prune_region round 2: 545 -> 213
+[07:18:02] CD14: 113 approximately independent SNPs
+[07:18:02] CD14 N14_CHRONKIDNEYDIS: PP.H4=0.203 (n=113)
+[07:18:02] CD14 N14_RENFAIL: PP.H4=0.022 (n=113)
+[07:18:02] CD14 N14_RENALTUB: PP.H4=0.004 (n=113)
+[07:18:02] CD14 DM_NEPHROPATHY: PP.H4=0.012 (n=113)
+[07:18:02] CD14 N14_IGA_NEPHROPATHY: PP.H4=0.027 (n=113)
+[07:18:02] CD14 I9_HYPTENSRD: PP.H4=0.386 (n=113)
+[07:18:27] PCSK6: 5564 regional SNPs across 6 endpoints; pruning...
+[07:21:32]   prune_region round 1: 5564 -> 1512
+[07:22:26]   prune_region round 2: 1512 -> 833
+[07:22:56]   prune_region round 3: 833 -> 600
+[07:23:19]   prune_region round 4: 600 -> 489
+[07:23:43]   prune_region round 5: 489 -> 419
+[07:23:58]   prune_region round 6: 419 -> 406
+[07:24:14]   prune_region round 7: 406 -> 404
+[07:24:29]   prune_region round 8: 404 -> 403
+[07:24:46]   prune_region round 9: 403 -> 402
+[07:25:01]   prune_region round 10: 402 -> 401
+[07:25:18]   prune_region round 11: 401 -> 401
+[07:25:18]   prune_region: converged (no further shrinkage)
+[07:25:34] PCSK6: 401 approximately independent SNPs
+[07:25:34] PCSK6 N14_CHRONKIDNEYDIS: PP.H4=0.534 (n=399)
+[07:25:34] PCSK6 N14_RENFAIL: PP.H4=0.371 (n=399)
+[07:25:34] PCSK6 N14_RENALTUB: PP.H4=0.009 (n=399)
+[07:25:34] PCSK6 DM_NEPHROPATHY: PP.H4=0.025 (n=400)
+[07:25:34] PCSK6 N14_IGA_NEPHROPATHY: PP.H4=0.048 (n=399)
+[07:25:34] PCSK6 I9_HYPTENSRD: PP.H4=0.023 (n=399)
+[07:26:01] TNFRSF1A: 5914 regional SNPs across 6 endpoints; pruning...
+[07:29:20]   prune_region round 1: 5914 -> 1261
+[07:30:05]   prune_region round 2: 1261 -> 654
+[07:30:29]   prune_region round 3: 654 -> 466
+[07:30:45]   prune_region round 4: 466 -> 371
+[07:31:00]   prune_region round 5: 371 -> 347
+[07:31:15]   prune_region round 6: 347 -> 334
+[07:31:30]   prune_region round 7: 334 -> 328
+[07:31:45]   prune_region round 8: 328 -> 327
+[07:32:00]   prune_region round 9: 327 -> 326
+[07:32:14]   prune_region round 10: 326 -> 325
+[07:32:29]   prune_region round 11: 325 -> 325
+[07:32:29]   prune_region: converged (no further shrinkage)
+[07:32:46] TNFRSF1A: 325 approximately independent SNPs
+[07:32:46] TNFRSF1A N14_CHRONKIDNEYDIS: PP.H4=0.045 (n=324)
+[07:32:46] TNFRSF1A N14_RENFAIL: PP.H4=0.177 (n=324)
+[07:32:46] TNFRSF1A N14_RENALTUB: PP.H4=0.067 (n=324)
+[07:32:46] TNFRSF1A DM_NEPHROPATHY: PP.H4=0.011 (n=325)
+[07:32:46] TNFRSF1A N14_IGA_NEPHROPATHY: PP.H4=0.071 (n=324)
+[07:32:46] TNFRSF1A I9_HYPTENSRD: PP.H4=0.055 (n=324)
+[07:33:12] LGALS3: 6100 regional SNPs across 6 endpoints; pruning...
+[07:36:33]   prune_region round 1: 6100 -> 1145
+[07:37:12]   prune_region round 2: 1145 -> 515
+[07:37:35]   prune_region round 3: 515 -> 322
+[07:37:50]   prune_region round 4: 322 -> 249
+[07:38:04]   prune_region round 5: 249 -> 206
+[07:38:12] LGALS3: 199 approximately independent SNPs
+[07:38:12] LGALS3 N14_CHRONKIDNEYDIS: PP.H4=0.012 (n=199)
+[07:38:12] LGALS3 N14_RENFAIL: PP.H4=0.012 (n=199)
+[07:38:12] LGALS3 N14_RENALTUB: PP.H4=0.008 (n=199)
+[07:38:12] LGALS3 DM_NEPHROPATHY: PP.H4=0.043 (n=199)
+[07:38:12] LGALS3 N14_IGA_NEPHROPATHY: PP.H4=0.191 (n=199)
+[07:38:12] LGALS3 I9_HYPTENSRD: PP.H4=0.730 (n=199)
+[07:38:12] coloc done: 72 pairs -> D5_coloc_results.csv

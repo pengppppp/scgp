@@ -1,0 +1,4 @@
+outcome,outcome_n,rep_genes,rep_nominal,rep_rate,nonrep_n,nonrep_nominal,nonrep_rate,fisher_vs_background_p,direction,direction_binom_p,NID2_pQTL_p,C2_pQTL_p
+eGFRcys,460826,36,5,14%,367,69,19%,0.652,23/36 (64%),0.0662,0.161,0.0147
+eGFRcrea_trans,765348,37,11,30%,347,84,24%,0.431,24/37 (65%),0.0494,0.848,0.0226
+BBJ_eGFR_EastAsian,143658,37,4,11%,316,31,10%,0.774,27/37 (73%),0.0038,0.383,0.6857

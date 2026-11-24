@@ -1,0 +1,42 @@
+Gene,Tier,Nominal endpoints (n/6),Endpoints (abbreviated),Direction,OR range,FDR endpoints (n/6),Approved drugs
+LOXL4,A,5,"diabetic nephropathy, hypertensive renal, CKD, tubulo-interstitial, renal failure",protective,0.22-0.77,3,-
+TUFT1,A,4,"diabetic nephropathy, CKD, tubulo-interstitial, renal failure",risk,1.25-2.12,3,-
+C2,A,3,"diabetic nephropathy, CKD, renal failure",risk,1.23-1.76,2,-
+ST3GAL4,A,3,"diabetic nephropathy, CKD, renal failure",risk,1.22-1.36,2,-
+TGFB3,A,3,"CKD, tubulo-interstitial, renal failure",risk,1.08-1.15,2,-
+CD14,A,2,"hypertensive renal, CKD",protective,0.70-0.89,2,-
+CHSY1,A,2,"CKD, renal failure",risk,1.05-1.08,2,-
+PCSK6,A,2,"CKD, renal failure",protective,0.47-0.56,2,-
+CASP7,B,4,"diabetic nephropathy, CKD, tubulo-interstitial, renal failure",risk,1.03-1.08,1,-
+NID2,B,4,"diabetic nephropathy, hypertensive renal, CKD, renal failure",risk,1.37-3.41,0,-
+TNFRSF1A,B,3,"CKD, tubulo-interstitial, renal failure",risk,1.07-1.12,1,-
+EPDR1,B,3,"diabetic nephropathy, CKD, IgA nephropathy",protective,0.79-0.94,0,-
+PTCH1,B,3,"hypertensive renal, CKD, renal failure",protective,0.70-0.91,0,-
+PTPRJ,B,3,"diabetic nephropathy, CKD, renal failure",protective,0.80-0.90,0,-
+ADAM12,B,2,"tubulo-interstitial, renal failure",risk,1.18-1.21,1,-
+CD40,B,2,"hypertensive renal, IgA nephropathy",risk,0.79-1.24,1,-
+EXT2,B,2,"hypertensive renal, IgA nephropathy",risk,1.23-1.35,1,-
+FAM20A,B,2,"hypertensive renal, renal failure",risk,0.84-2.76,1,-
+GALNT1,B,2,"tubulo-interstitial, renal failure",risk,1.07-1.15,1,-
+GDF11,B,2,"diabetic nephropathy, tubulo-interstitial",protective,0.34-0.80,1,-
+OLFML2A,B,2,"CKD, renal failure",risk,1.42-1.69,1,-
+RARRES2,B,2,"tubulo-interstitial, renal failure",protective,0.72-0.75,1,-
+WNT3,B,2,"tubulo-interstitial, renal failure",protective,0.78-0.89,1,-
+CD55,B,2,"hypertensive renal, tubulo-interstitial",risk,1.02-1.15,0,-
+COL5A3,B,2,"tubulo-interstitial, renal failure",protective,0.94-0.97,0,-
+CREG1,B,2,"diabetic nephropathy, hypertensive renal",protective,0.72-0.82,0,-
+EMID1,B,2,"CKD, IgA nephropathy",protective,0.23-0.69,0,-
+FKRP,B,2,"diabetic nephropathy, hypertensive renal",protective,0.81-0.88,0,-
+FOLR3,B,2,"CKD, renal failure",risk,1.04-1.04,0,-
+FSTL4,B,2,"tubulo-interstitial, renal failure",risk,1.22-1.27,0,-
+GREM2,B,2,"IgA nephropathy, tubulo-interstitial",risk,1.11-2.27,0,-
+ITIH4,B,2,"hypertensive renal, tubulo-interstitial",risk,1.03-1.17,0,-
+MMP23B,B,2,"CKD, renal failure",protective,0.68-0.72,0,-
+NPPA,B,2,"diabetic nephropathy, IgA nephropathy",protective,0.65-0.81,0,-
+OVGP1,B,2,"CKD, renal failure",protective,0.94-0.94,0,-
+PGF,B,2,"CKD, renal failure",protective,0.82-0.83,0,1 approved
+PRSS23,B,2,"CKD, renal failure",protective,0.62-0.72,0,-
+PSAP,B,2,"hypertensive renal, tubulo-interstitial",protective,0.53-0.89,0,-
+SNCA,B,2,"CKD, renal failure",protective,0.88-0.91,0,-
+SORD,B,2,"CKD, IgA nephropathy",protective,0.47-0.85,0,-
+WNT10B,B,2,"CKD, renal failure",risk,1.25-1.26,0,-

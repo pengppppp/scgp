@@ -1,0 +1,66 @@
+[07:46:45] coloc: 2 genes x 6 endpoints; JWT=set
+[07:48:36] eQTLGen pass: 127,341,798 rows in 111s
+[07:48:36] FinnGen target rsIDs: 94,069
+[07:49:00]   N14_CHRONKIDNEYDIS: 65,556 rows in 23s
+[07:49:23]   N14_RENFAIL: 65,556 rows in 24s
+[07:49:47]   N14_RENALTUB: 65,556 rows in 24s
+[07:50:10]   DM_NEPHROPATHY: 65,555 rows in 23s
+[07:50:34]   N14_IGA_NEPHROPATHY: 65,556 rows in 24s
+[07:50:58]   I9_HYPTENSRD: 65,555 rows in 24s
+[07:51:24] CASP7: 5748 regional SNPs across 6 endpoints; pruning...
+[07:54:31]   prune_region round 1: 5748 -> 1236
+[07:55:16]   prune_region round 2: 1236 -> 647
+[07:55:42]   prune_region round 3: 647 -> 494
+[07:56:04]   prune_region round 4: 494 -> 412
+[07:56:19]   prune_region round 5: 412 -> 381
+[07:56:34]   prune_region round 6: 381 -> 365
+[07:56:49]   prune_region round 7: 365 -> 357
+[07:57:04]   prune_region round 8: 357 -> 353
+[07:57:20]   prune_region round 9: 353 -> 352
+[07:57:35]   prune_region round 10: 352 -> 351
+[07:57:50]   prune_region round 11: 351 -> 350
+[07:58:05]   prune_region round 12: 350 -> 350
+[07:58:05]   prune_region: converged (no further shrinkage)
+[07:58:21] CASP7: 350 approximately independent SNPs
+[07:58:26] CASP7 N14_CHRONKIDNEYDIS: PP.H4=0.225 (n=348)
+[07:58:26] CASP7 N14_RENFAIL: PP.H4=0.059 (n=348)
+[07:58:26] CASP7 N14_RENALTUB: PP.H4=0.037 (n=348)
+[07:58:26] CASP7 DM_NEPHROPATHY: PP.H4=0.076 (n=349)
+[07:58:26] CASP7 N14_IGA_NEPHROPATHY: PP.H4=0.044 (n=348)
+[07:58:26] CASP7 I9_HYPTENSRD: PP.H4=0.081 (n=349)
+[07:59:02] CHSY1: 6926 regional SNPs across 6 endpoints; pruning...
+[08:02:47]   prune_region round 1: 6926 -> 1753
+[08:03:53]   prune_region round 2: 1753 -> 959
+[08:04:25]   prune_region round 3: 959 -> 668
+[08:04:50]   prune_region round 4: 668 -> 556
+[08:05:15]   prune_region round 5: 556 -> 481
+[08:05:37]   prune_region round 6: 481 -> 441
+[08:05:52]   prune_region round 7: 441 -> 434
+[08:06:08]   prune_region round 8: 434 -> 430
+[08:06:23]   prune_region round 9: 430 -> 427
+[08:06:41]   prune_region round 10: 427 -> 425
+[08:06:57]   prune_region round 11: 425 -> 424
+[08:07:14]   prune_region round 12: 424 -> 424
+[08:07:14]   prune_region: converged (no further shrinkage)
+[08:07:29] CHSY1: 424 approximately independent SNPs
+[08:07:29] CHSY1 N14_CHRONKIDNEYDIS: PP.H4=0.513 (n=422)
+[08:07:29] CHSY1 N14_RENFAIL: PP.H4=0.173 (n=422)
+[08:07:29] CHSY1 N14_RENALTUB: PP.H4=0.022 (n=422)
+[08:07:29] CHSY1 DM_NEPHROPATHY: PP.H4=0.020 (n=423)
+[08:07:29] CHSY1 N14_IGA_NEPHROPATHY: PP.H4=0.032 (n=422)
+[08:07:29] CHSY1 I9_HYPTENSRD: PP.H4=0.025 (n=422)
+[08:07:29] coloc done: 12 pairs -> D5_coloc_results.csv
+ gene            endpoint  n_pruned_total  n_pruned_present  PP_H0  PP_H1  PP_H2  PP_H3  PP_H4  lead_instrument_retained pp_h4_class
+CASP7  N14_CHRONKIDNEYDIS             350               348    0.0 0.7077    0.0 0.0676 0.2247                      True        weak
+CASP7         N14_RENFAIL             350               348    0.0 0.5965    0.0 0.3448 0.0586                      True        weak
+CASP7        N14_RENALTUB             350               348    0.0 0.9483    0.0 0.0150 0.0366                      True        weak
+CASP7      DM_NEPHROPATHY             350               349    0.0 0.9050    0.0 0.0188 0.0762                      True        weak
+CASP7 N14_IGA_NEPHROPATHY             350               348    0.0 0.9235    0.0 0.0329 0.0437                      True        weak
+CASP7        I9_HYPTENSRD             350               349    0.0 0.8866    0.0 0.0323 0.0811                      True        weak
+CHSY1  N14_CHRONKIDNEYDIS             424               422    0.0 0.4631    0.0 0.0240 0.5130                      True    moderate
+CHSY1         N14_RENFAIL             424               422    0.0 0.8082    0.0 0.0189 0.1729                      True        weak
+CHSY1        N14_RENALTUB             424               422    0.0 0.9630    0.0 0.0150 0.0221                      True        weak
+CHSY1      DM_NEPHROPATHY             424               423    0.0 0.9325    0.0 0.0477 0.0197                      True        weak
+CHSY1 N14_IGA_NEPHROPATHY             424               422    0.0 0.9333    0.0 0.0349 0.0318                      True        weak
+CHSY1        I9_HYPTENSRD             424               422    0.0 0.9288    0.0 0.0458 0.0255                      True        weak
+FIX_EXIT=0

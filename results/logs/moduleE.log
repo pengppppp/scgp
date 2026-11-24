@@ -1,0 +1,23 @@
+[07:30:53] PheWAS for top 30 genes across 14 endpoints
+[07:31:53]   N14_CHRONKIDNEYDIS: 21326986 variants parsed
+[07:31:59]   N14_CHRONKIDNEYDIS: 344/369 instrument variants present
+[07:32:59]   N14_RENFAIL: 21327062 variants parsed
+[07:33:06]   N14_RENFAIL: 344/369 instrument variants present
+[07:34:08]   N14_RENALTUB: 21327062 variants parsed
+[07:34:14]   N14_RENALTUB: 344/369 instrument variants present
+[07:35:17]   DM_NEPHROPATHY: 21267523 variants parsed
+[07:35:23]   DM_NEPHROPATHY: 344/369 instrument variants present
+[07:36:26]   N14_IGA_NEPHROPATHY: 21327058 variants parsed
+[07:36:32]   N14_IGA_NEPHROPATHY: 344/369 instrument variants present
+[07:37:33]   I9_HYPTENSRD: 21324243 variants parsed
+[07:37:39]   I9_HYPTENSRD: 344/369 instrument variants present
+[07:37:39]   N14_NEPHROTICSYND: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   N14_ACUTERENFAIL: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   T2D: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   I9_HTN: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   I9_AF: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   E4_OBESITY: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   L12_RA: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39]   K11_NAFLD: not downloaded locally -> skipped (extended panel: for ep in T2D I9_HTN I9_AF E4_OBESITY L12_RA K11_NAFLD; do curl -O https://storage.googleapis.com/finngen-public-data-r12/summary_stats/release/finngen_R12_${ep}.gz; done)
+[07:37:39] PheWAS endpoints available: 6
+[07:37:41] Module E done: 180 gene-endpoint tests; kidney nominal hits: 53

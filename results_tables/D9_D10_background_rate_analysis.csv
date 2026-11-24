@@ -1,0 +1,4 @@
+outcome,rep_genes,rep_nominal,nonrep_genes,nonrep_nominal,fisher_p,direction_concordant,direction_p
+eGFRcys,36,5,367,69,0.652,23/36,0.0662
+eGFRcrea_trans,37,11,347,84,0.431,24/37,0.0494
+BBJ_eGFR_EastAsian,37,4,316,31,0.774,27/37,0.0038

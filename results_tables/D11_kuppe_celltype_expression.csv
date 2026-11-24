@@ -1,0 +1,337 @@
+dataset,species,level,metric,gene,n_clusters_detected,top1_celltype,top1_value,top2_celltype,top2_value,top3_celltype,top3_value
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,TUFT1,46,Intercalated Cells 3,0.254,Intercalated Cells 5,0.212,Descending Thin Limb,0.135
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,IL6R,49,Macrophages 1,0.474,Macrophages 3,0.312,Dendritic Cells,0.307
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,DPP4,45,Injured Proximal tubule,0.388,Descending Thin Limb,0.367,Macula Densa Cells,0.264
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,ITIH4,43,Vascular Smooth Muscle Cells,0.087,Schwann Cells,0.042,Thick Ascending Limb 3,0.029
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,HAVCR1,10,Injured Proximal tubule,0.046,Thick Ascending Limb 2,0.006,Descending Thin Limb,0.005
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,TNF,37,Monocytes,0.171,Macrophages 2,0.148,Dendritic Cells,0.098
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,C2,43,Fibroblast 3,0.102,Monocytes,0.099,Injured Proximal tubule,0.084
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,VEGFA,50,Podocytes,0.75,Intercalated Cells 5,0.697,Intercalated Cells 3,0.667
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,HGF,33,Fibroblast 2,0.327,Myofibroblast 1b,0.314,Fibroblast 1,0.284
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,LCN2,26,Descending Thin Limb,0.185,Injured Proximal tubule,0.051,Connecting Tubule,0.048
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,LOXL4,30,Podocytes,0.091,Descending Thin Limb,0.073,Injured Proximal tubule,0.07
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,CASP7,50,Intercalated Cells 6,0.231,Intercalated Cells 5,0.212,Intercalated Cells A,0.151
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,MMP7,47,Descending Thin Limb,0.736,Injured Proximal tubule,0.481,Collecting Duct Principal Cells,0.433
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,TNFRSF1A,50,Vasa Recta 6,0.609,Vasa Recta 4,0.595,Vasa Recta 1,0.51
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,NID2,40,Fibroblast 3,0.15,Myofibroblast 1b,0.137,Venular Endothelium,0.137
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,LGALS3,50,Intercalated Cells 7,0.975,Intercalated Cells 5,0.97,Intercalated Cells 4,0.962
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,TGFB3,37,Fibroblast 2,0.178,Pericytes 2,0.149,Myofibroblast 1b,0.124
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,UMOD,46,Thick Ascending Limb 3,0.997,Thick Ascending Limb 4,0.969,Macula Densa Cells,0.356
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,CCL2,47,Fibroblast 2,0.928,Myofibroblast 1b,0.791,Pericytes 2,0.766
+Human_CD10minus_Level3_Fraction,human,3,fraction_detected,ACE,42,Vasa Recta 4,0.171,Proximal Tubule,0.077,Vasa Recta 6,0.071
+Human_CD10minus_Level3_Specific,human,3,specificity,TUFT1,15,Distal Convoluted Tubule,0.019,Descending Thin Limb,0.015,Injured Proximal tubule,0.015
+Human_CD10minus_Level3_Specific,human,3,specificity,IL6R,21,Macrophages 1,0.116,Macrophages 3,0.032,Dendritic Cells,0.028
+Human_CD10minus_Level3_Specific,human,3,specificity,DPP4,10,Injured Proximal tubule,0.081,Descending Thin Limb,0.065,Macula Densa Cells,0.036
+Human_CD10minus_Level3_Specific,human,3,specificity,ITIH4,11,Vascular Smooth Muscle Cells,0.007,Collecting Duct Principal Cells,0.001,Dendritic Cells,0.001
+Human_CD10minus_Level3_Specific,human,3,specificity,HAVCR1,1,Injured Proximal tubule,0.028,Arteriolar Endothelium,0.0,B Cells,0.0
+Human_CD10minus_Level3_Specific,human,3,specificity,TNF,12,Monocytes,0.028,Macrophages 2,0.012,Dendritic Cells,0.007
+Human_CD10minus_Level3_Specific,human,3,specificity,C2,11,Monocytes,0.016,Injured Proximal tubule,0.01,Dendritic Cells,0.004
+Human_CD10minus_Level3_Specific,human,3,specificity,VEGFA,37,Intercalated Cells A,0.031,Venular Endothelium,0.025,Macrophages 1,0.021
+Human_CD10minus_Level3_Specific,human,3,specificity,HGF,13,Fibroblast 1,0.058,Myofibroblast 1a,0.034,Myofibroblast 1b,0.028
+Human_CD10minus_Level3_Specific,human,3,specificity,LCN2,5,Descending Thin Limb,0.076,Injured Proximal tubule,0.006,Distal Convoluted Tubule,0.005
+Human_CD10minus_Level3_Specific,human,3,specificity,LOXL4,9,Injured Proximal tubule,0.016,Descending Thin Limb,0.015,Myofibroblast 1a,0.003
+Human_CD10minus_Level3_Specific,human,3,specificity,CASP7,25,Vasa Recta 6,0.018,Glomerular Capillaries,0.013,Vasa Recta 1,0.01
+Human_CD10minus_Level3_Specific,human,3,specificity,MMP7,14,Descending Thin Limb,0.134,Injured Proximal tubule,0.065,Distal Convoluted Tubule,0.044
+Human_CD10minus_Level3_Specific,human,3,specificity,TNFRSF1A,33,Vasa Recta 6,0.096,Vasa Recta 1,0.083,Vasa Recta 3,0.041
+Human_CD10minus_Level3_Specific,human,3,specificity,NID2,13,Venular Endothelium,0.025,Vasa Recta 6,0.013,Glomerular Capillaries,0.008
+Human_CD10minus_Level3_Specific,human,3,specificity,LGALS3,45,Macrophages 1,0.044,Vasa Recta 6,0.042,Intercalated Cells A,0.033
+Human_CD10minus_Level3_Specific,human,3,specificity,TGFB3,14,Fibroblast 2,0.008,Fibroblast 1,0.005,Myofibroblast 1b,0.005
+Human_CD10minus_Level3_Specific,human,3,specificity,UMOD,26,Thick Ascending Limb 4,0.107,Thick Ascending Limb 3,0.092,Macula Densa Cells,0.032
+Human_CD10minus_Level3_Specific,human,3,specificity,CCL2,31,Monocytes,0.048,Injured Endothelial Cells,0.043,Fibroblast 1,0.036
+Human_CD10minus_Level3_Specific,human,3,specificity,ACE,10,Vasa Recta 6,0.016,Vasa Recta 4,0.015,Vasa Recta 3,0.006
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,TUFT1,27,Descending Thin Limb,0.135,Injured Tubule,0.129,Distal Convoluted Tubule,0.117
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,IL6R,28,Macrophages,0.359,Dendritic Cells,0.307,Podocytes,0.227
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,DPP4,29,Injured Tubule,0.388,Descending Thin Limb,0.367,Proximal Tubule,0.186
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,ITIH4,28,Smooth Muscle Cells,0.087,Schwann Cells,0.042,Collecting Duct Principal Cells,0.025
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,HAVCR1,7,Injured Tubule,0.046,Descending Thin Limb,0.005,Proximal Tubule,0.005
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,TNF,25,Monocytes,0.171,Dendritic Cells,0.098,T Cells,0.097
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,C2,27,Monocytes,0.099,Injured Tubule,0.084,Fibroblast,0.072
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,VEGFA,29,Podocytes,0.75,Intercalated Cells,0.541,Dendritic Cells,0.34
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,HGF,22,Myofibroblast,0.282,Fibroblast,0.267,Pericytes,0.129
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,LCN2,19,Descending Thin Limb,0.185,Injured Tubule,0.051,Connecting Tubule,0.048
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,LOXL4,22,Podocytes,0.091,Descending Thin Limb,0.073,Injured Tubule,0.07
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,CASP7,29,Intercalated Cells,0.127,Schwann Cells,0.125,Myofibroblast,0.117
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,MMP7,27,Descending Thin Limb,0.736,Injured Tubule,0.481,Collecting Duct Principal Cells,0.433
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,TNFRSF1A,29,Injured Endothelium,0.507,Vasa Recta,0.465,Podocytes,0.455
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,NID2,23,Venular Endothelium,0.137,Myofibroblast,0.12,Fibroblast,0.096
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,LGALS3,29,Intercalated Cells,0.929,Myofibroblast,0.705,Descending Thin Limb,0.676
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,TGFB3,24,Smooth Muscle Cells,0.103,Pericytes,0.1,Fibroblast,0.093
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,UMOD,28,Thick Ascending Limb,0.519,Descending Thin Limb,0.263,Dendritic Cells,0.113
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,CCL2,29,Fibroblast,0.683,Monocytes,0.63,Myofibroblast,0.581
+Human_CD10minus_Level2_Fraction,human,2,fraction_detected,ACE,26,Proximal Tubule,0.077,Vasa Recta,0.047,Podocytes,0.045
+Human_CD10minus_Level2_Specific,human,2,specificity,TUFT1,9,Distal Convoluted Tubule,0.019,Descending Thin Limb,0.015,Injured Tubule,0.015
+Human_CD10minus_Level2_Specific,human,2,specificity,IL6R,15,Macrophages,0.137,Dendritic Cells,0.028,Injured Tubule,0.012
+Human_CD10minus_Level2_Specific,human,2,specificity,DPP4,8,Injured Tubule,0.081,Descending Thin Limb,0.065,Thick Ascending Limb,0.029
+Human_CD10minus_Level2_Specific,human,2,specificity,ITIH4,10,Smooth Muscle Cells,0.007,Macrophages,0.002,Thick Ascending Limb,0.002
+Human_CD10minus_Level2_Specific,human,2,specificity,HAVCR1,1,Injured Tubule,0.028,Arterioral Endothelium,0.0,B Cells,0.0
+Human_CD10minus_Level2_Specific,human,2,specificity,TNF,11,Monocytes,0.028,Macrophages,0.009,Dendritic Cells,0.007
+Human_CD10minus_Level2_Specific,human,2,specificity,C2,7,Monocytes,0.016,Injured Tubule,0.01,Fibroblast,0.009
+Human_CD10minus_Level2_Specific,human,2,specificity,VEGFA,22,Intercalated Cells,0.055,Vasa Recta,0.033,Venular Endothelium,0.025
+Human_CD10minus_Level2_Specific,human,2,specificity,HGF,7,Fibroblast,0.082,Myofibroblast,0.062,Monocytes,0.012
+Human_CD10minus_Level2_Specific,human,2,specificity,LCN2,5,Descending Thin Limb,0.076,Injured Tubule,0.006,Distal Convoluted Tubule,0.005
+Human_CD10minus_Level2_Specific,human,2,specificity,LOXL4,8,Injured Tubule,0.016,Descending Thin Limb,0.015,Myofibroblast,0.003
+Human_CD10minus_Level2_Specific,human,2,specificity,CASP7,16,Vasa Recta,0.031,Glomerular Capillaries,0.013,Injured Endothelium,0.007
+Human_CD10minus_Level2_Specific,human,2,specificity,MMP7,10,Descending Thin Limb,0.134,Injured Tubule,0.065,Distal Convoluted Tubule,0.044
+Human_CD10minus_Level2_Specific,human,2,specificity,TNFRSF1A,22,Vasa Recta,0.241,Injured Endothelium,0.038,Venular Endothelium,0.024
+Human_CD10minus_Level2_Specific,human,2,specificity,NID2,6,Venular Endothelium,0.025,Vasa Recta,0.024,Glomerular Capillaries,0.008
+Human_CD10minus_Level2_Specific,human,2,specificity,LGALS3,24,Vasa Recta,0.105,Macrophages,0.07,Intercalated Cells,0.062
+Human_CD10minus_Level2_Specific,human,2,specificity,TGFB3,8,Fibroblast,0.012,Myofibroblast,0.008,Pericytes,0.007
+Human_CD10minus_Level2_Specific,human,2,specificity,UMOD,16,Thick Ascending Limb,0.179,Descending Thin Limb,0.016,Vasa Recta,0.009
+Human_CD10minus_Level2_Specific,human,2,specificity,CCL2,21,Fibroblast,0.062,Monocytes,0.048,Injured Endothelium,0.043
+Human_CD10minus_Level2_Specific,human,2,specificity,ACE,6,Vasa Recta,0.03,Proximal Tubule,0.004,Glomerular Capillaries,0.003
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,TUFT1,7,S1/2 1,0.029,S1,0.027,S1/2 2,0.024
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,IL6R,7,S1,0.1,S3 1,0.07,S1/2 2,0.069
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,DPP4,7,S1,0.581,S1/2 1,0.362,S1/2 3,0.301
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,HAVCR1,5,S1,0.003,S1/2 2,0.002,S3 1,0.002
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,C2,7,S1/2 1,0.032,S1,0.03,S1/2 2,0.011
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,VEGFA,7,S1,0.142,S1/2 2,0.095,S1/2 1,0.084
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,CASP7,7,S1/2 2,0.061,S1,0.055,S1/2 1,0.048
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,MMP7,6,S1,0.006,S1/2 1,0.005,S1/2 2,0.002
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,TNFRSF1A,7,S1,0.167,S3 1,0.115,S1/2 2,0.107
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,NID2,7,S1,0.01,S1/2 1,0.007,S1/2 2,0.005
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,LGALS3,7,S1/2 1,0.336,S1,0.322,S1/2 2,0.252
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,UMOD,7,S1,0.004,S1/2 1,0.004,S1/2 2,0.004
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,CCL2,7,S1,0.007,S1/2 1,0.005,S1/2 2,0.005
+Human_CD10plus_Level3_FractionD,human,3,fraction_detected,ACE,7,S3 1,0.131,S1,0.122,S1/2 2,0.081
+Human_CD10plus_Level3_Specifici,human,3,specificity,TUFT1,7,S1/2 1,0.007,S1,0.005,S1/2 2,0.005
+Human_CD10plus_Level3_Specifici,human,3,specificity,IL6R,7,S1,0.024,S1/2 2,0.015,S1/2 1,0.013
+Human_CD10plus_Level3_Specifici,human,3,specificity,DPP4,7,S1,0.142,S1/2 1,0.065,S3 3,0.038
+Human_CD10plus_Level3_Specifici,human,3,specificity,HAVCR1,1,S1,0.001,S1/2 1,0.0,S1/2 2,0.0
+Human_CD10plus_Level3_Specifici,human,3,specificity,C2,4,S1/2 1,0.01,S1,0.007,S3 3,0.003
+Human_CD10plus_Level3_Specifici,human,3,specificity,VEGFA,7,S1,0.034,S1/2 2,0.02,S1/2 1,0.014
+Human_CD10plus_Level3_Specifici,human,3,specificity,CASP7,6,S1/2 2,0.017,S1,0.01,S1/2 1,0.009
+Human_CD10plus_Level3_Specifici,human,3,specificity,MMP7,2,S1,0.001,S1/2 1,0.001,S1/2 2,0.0
+Human_CD10plus_Level3_Specifici,human,3,specificity,TNFRSF1A,7,S1,0.037,S1/2 2,0.02,S1/2 1,0.015
+Human_CD10plus_Level3_Specifici,human,3,specificity,NID2,3,S1,0.003,S1/2 1,0.001,S1/2 2,0.001
+Human_CD10plus_Level3_Specifici,human,3,specificity,LGALS3,7,S1/2 1,0.083,S1,0.065,S1/2 2,0.053
+Human_CD10plus_Level3_Specifici,human,3,specificity,UMOD,3,S1/2 1,0.001,S1/2 2,0.001,S3 3,0.001
+Human_CD10plus_Level3_Specifici,human,3,specificity,CCL2,3,S1,0.001,S1/2 1,0.001,S1/2 2,0.001
+Human_CD10plus_Level3_Specifici,human,3,specificity,ACE,7,S1,0.03,S3 1,0.02,S1/2 2,0.018
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,TUFT1,23,Thick Ascending Limb,0.379,Proximal Tubule,0.333,Collecting Duct Principal Cells,0.171
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,IL6R,26,Proximal Tubule,0.635,Injured Proximal Tubule,0.425,Thick Ascending Limb,0.356
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,DPP4,23,Thick Ascending Limb,0.586,Proximal Tubule,0.524,Injured Proximal Tubule,0.206
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,ITIH4,26,Intercalated Cells,0.13,Collecting Duct Principal Cells,0.073,Thick Ascending Limb,0.057
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,HAVCR1,7,Proximal Tubule,0.254,Thick Ascending Limb,0.029,Injured Proximal Tubule,0.006
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,TNF,24,Glomerular Capillaries 2,0.283,Dendritic Cells,0.27,Thick Ascending Limb,0.247
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,C2,25,Proximal Tubule,0.365,Fibroblast 1,0.26,Fibroblast 3,0.213
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,VEGFA,26,Monocytes,0.689,Intercalated Cells,0.652,Injured Monocytes,0.573
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,HGF,25,Fibroblasts 2a,0.746,Fibroblasts 2b,0.644,Myofibroblasts 3a,0.599
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,LCN2,13,Thick Ascending Limb,0.362,Proximal Tubule,0.206,Collecting Duct Principal Cells,0.049
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,LOXL4,23,Proximal Tubule,0.302,Injured Proximal Tubule,0.175,Thick Ascending Limb,0.126
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,CASP7,26,Intercalated Cells,0.391,Proximal Tubule,0.381,Injured Proximal Tubule,0.344
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,MMP7,25,Proximal Tubule,0.825,Collecting Duct Principal Cells,0.756,Thick Ascending Limb,0.609
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,TNFRSF1A,26,injured Endothelium,0.826,Proximal Tubule,0.794,Arterioles 2,0.754
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,NID2,24,Injured Proximal Tubule,0.55,Fibroblast 1,0.403,Fibroblast 3,0.255
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,LGALS3,26,Fibroblast 3,0.968,Intercalated Cells,0.957,Fibroblast 1,0.926
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,TGFB3,25,Proximal Tubule,0.254,injured Endothelium,0.247,Arterioles 2,0.237
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,UMOD,25,Thick Ascending Limb,0.391,Injured Proximal Tubule,0.05,Collecting Duct Principal Cells,0.049
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,CCL2,26,Myofibroblasts 2b,0.888,Proximal Tubule,0.873,Myofibroblasts 3a,0.858
+Human_PDGFRBplus_Level3_Fractio,human,3,specificity,ACE,22,Proximal Tubule,0.159,Vasa Recta,0.049,Fibroblast 1,0.031
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,TUFT1,9,Thick Ascending Limb,0.1,Proximal Tubule,0.028,Collecting Duct Principal Cells,0.005
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,IL6R,20,Monocytes,0.043,Injured Monocytes,0.027,Myofibroblasts 3a,0.017
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,DPP4,5,Thick Ascending Limb,0.194,Proximal Tubule,0.056,Injured Proximal Tubule,0.022
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,ITIH4,13,Monocytes,0.006,Dendritic Cells,0.003,Injured Monocytes,0.003
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,HAVCR1,2,Proximal Tubule,0.15,Thick Ascending Limb,0.005,Arterioles 1,0.0
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,TNF,10,Dendritic Cells,0.059,Monocytes,0.036,Glomerular Capillaries 2,0.029
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,C2,14,Fibroblast 1,0.049,Myofibroblasts 3a,0.031,Fibroblasts 2a,0.008
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,VEGFA,24,Monocytes,0.081,Injured Monocytes,0.034,Myofibroblasts 1,0.028
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,HGF,15,Fibroblasts 2a,0.162,Myofibroblasts 3a,0.082,Myofibroblasts 2b,0.076
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,LCN2,4,Thick Ascending Limb,0.205,Proximal Tubule,0.024,Collecting Duct Principal Cells,0.001
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,LOXL4,13,Myofibroblasts 1,0.017,Myofibroblasts 2b,0.009,Fibroblasts 2a,0.008
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,CASP7,25,Myofibroblasts 2b,0.015,Fibroblasts 2a,0.013,Myofibroblasts 1,0.013
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,MMP7,6,Thick Ascending Limb,0.127,Proximal Tubule,0.084,Collecting Duct Principal Cells,0.046
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,TNFRSF1A,24,Fibroblasts 2a,0.065,Myofibroblasts 3a,0.063,Myofibroblasts 2b,0.053
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,NID2,19,Fibroblast 1,0.05,Myofibroblasts 2b,0.031,Myofibroblasts 1,0.027
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,LGALS3,26,Myofibroblasts 1,0.11,Myofibroblasts 2b,0.095,Myofibroblasts 3a,0.08
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,TGFB3,15,Pericytes,0.054,Myofibroblasts 2b,0.013,Myofibroblasts 1,0.012
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,UMOD,8,Thick Ascending Limb,0.08,Mesangial Cells 1,0.004,Pericytes,0.003
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,CCL2,24,Myofibroblasts 2b,0.107,Fibroblasts 2a,0.106,Myofibroblasts 3a,0.101
+Human_PDGFRBplus_Level3_Specifi,human,3,specificity,ACE,6,Vasa Recta,0.014,Proximal Tubule,0.008,Fibroblast 1,0.007
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,LGALS3,16,Intercalated Cells,0.957,Thick Ascending Limb,0.891,Prinicipal Cells,0.878
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,TNFRSF1A,16,injured Endothelium,0.826,Proximal Tubule,0.794,Vasa Recta,0.655
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,CCL2,16,Proximal Tubule,0.873,injured Endothelium,0.834,Fibroblasts,0.763
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,VEGFA,16,Intercalated Cells,0.652,Monocytes,0.645,Thick Ascending Limb,0.506
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,CASP7,16,Intercalated Cells,0.391,Proximal Tubule,0.381,Injured Proximal Tubule,0.344
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,NID2,14,Injured Proximal Tubule,0.55,Proximal Tubule,0.254,Fibroblasts,0.21
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,HGF,15,Fibroblasts,0.59,Myofibroblasts,0.459,Vascular Smooth Muscle Cells,0.343
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,IL6R,16,Proximal Tubule,0.635,Injured Proximal Tubule,0.425,Thick Ascending Limb,0.356
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,TGFB3,15,Proximal Tubule,0.254,injured Endothelium,0.247,Pericytes,0.227
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,UMOD,16,Thick Ascending Limb,0.391,Injured Proximal Tubule,0.05,Prinicipal Cells,0.049
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,ITIH4,16,Intercalated Cells,0.13,Prinicipal Cells,0.073,Thick Ascending Limb,0.057
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,ACE,13,Proximal Tubule,0.159,Vasa Recta,0.049,Arterioles,0.023
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,TNF,15,Dendritic Cells,0.27,Thick Ascending Limb,0.247,Glomerular Capillaries,0.203
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,C2,15,Proximal Tubule,0.365,Injured Proximal Tubule,0.131,Monocytes,0.124
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,LOXL4,14,Proximal Tubule,0.302,Injured Proximal Tubule,0.175,Thick Ascending Limb,0.126
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,DPP4,16,Thick Ascending Limb,0.586,Proximal Tubule,0.524,Injured Proximal Tubule,0.206
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,MMP7,16,Proximal Tubule,0.825,Prinicipal Cells,0.756,Thick Ascending Limb,0.609
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,TUFT1,15,Thick Ascending Limb,0.379,Proximal Tubule,0.333,Prinicipal Cells,0.171
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,HAVCR1,7,Proximal Tubule,0.254,Thick Ascending Limb,0.029,Injured Proximal Tubule,0.006
+Human_PDGFRBplus_Level2_Fractio,human,2,specificity,LCN2,9,Thick Ascending Limb,0.362,Proximal Tubule,0.206,Prinicipal Cells,0.049
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,TUFT1,8,Thick Ascending Limb,0.1,Proximal Tubule,0.028,Monocytes,0.006
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,IL6R,12,Monocytes,0.07,Fibroblasts,0.016,Myofibroblasts,0.014
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,DPP4,5,Thick Ascending Limb,0.194,Proximal Tubule,0.056,Injured Proximal Tubule,0.022
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,ITIH4,11,Monocytes,0.009,Dendritic Cells,0.003,Myofibroblasts,0.002
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,HAVCR1,2,Proximal Tubule,0.15,Thick Ascending Limb,0.005,Arterioles,0.0
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,TNF,8,Dendritic Cells,0.059,Monocytes,0.054,Glomerular Capillaries,0.025
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,C2,6,Fibroblasts,0.042,Myofibroblasts,0.03,Monocytes,0.011
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,VEGFA,15,Monocytes,0.114,Myofibroblasts,0.067,Fibroblasts,0.022
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,HGF,8,Myofibroblasts,0.223,Fibroblasts,0.196,Pericytes,0.029
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,LCN2,3,Thick Ascending Limb,0.205,Proximal Tubule,0.024,Prinicipal Cells,0.001
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,LOXL4,6,Myofibroblasts,0.026,Fibroblasts,0.012,Proximal Tubule,0.005
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,CASP7,16,Myofibroblasts,0.049,Fibroblasts,0.026,Vasa Recta,0.009
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,MMP7,6,Thick Ascending Limb,0.127,Proximal Tubule,0.084,Prinicipal Cells,0.046
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,TNFRSF1A,14,Myofibroblasts,0.209,Fibroblasts,0.119,Pericytes,0.045
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,NID2,11,Myofibroblasts,0.092,Fibroblasts,0.063,Injured Proximal Tubule,0.01
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,LGALS3,16,Myofibroblasts,0.398,Fibroblasts,0.127,Pericytes,0.066
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,TGFB3,9,Pericytes,0.054,Myofibroblasts,0.041,Fibroblasts,0.024
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,UMOD,9,Thick Ascending Limb,0.08,Mesangial Cells,0.004,Pericytes,0.003
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,CCL2,14,Myofibroblasts,0.333,Fibroblasts,0.198,Pericytes,0.081
+Human_PDGFRBplus_Level2_Specifi,human,2,specificity,ACE,5,Vasa Recta,0.014,Proximal Tubule,0.008,Fibroblasts,0.003
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,DPP4,10,Parietal Epithelial Cells,0.353,Pericytes 1,0.08,Injured Vascular Smooth Muscle Cells 2,0.078
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,LCN2,10,Parietal Epithelial Cells,0.162,Injured Vascular Smooth Muscle Cells 3,0.145,Injured Vascular Smooth Muscle Cells 1,0.134
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,TUFT1,8,Parietal Epithelial Cells,0.324,Matrix producing cells,0.039,Mesangial Cells,0.027
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,HGF,9,Matrix producing cells,0.395,Renin Producing Smooth Muscle Cells,0.059,Mesangial Cells,0.054
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,TNFRSF1A,10,Matrix producing cells,0.947,Injured Vascular Smooth Muscle Cells 3,0.934,Injured Vascular Smooth Muscle Cells 1,0.929
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,UMOD,10,Parietal Epithelial Cells,0.324,Injured Vascular Smooth Muscle Cells 3,0.276,Matrix producing cells,0.237
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,MMP7,7,Parietal Epithelial Cells,0.029,Matrix producing cells,0.026,Injured Vascular Smooth Muscle Cells 3,0.026
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,HAVCR1,8,Injured Vascular Smooth Muscle Cells 2,0.052,Matrix producing cells,0.039,Injured Vascular Smooth Muscle Cells 1,0.036
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,CCL2,5,Matrix producing cells,0.118,Parietal Epithelial Cells,0.044,Injured Vascular Smooth Muscle Cells 1,0.018
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,ACE,9,Matrix producing cells,0.237,Vascular Smooth Muscle Cells 1,0.035,Parietal Epithelial Cells,0.029
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,TGFB3,10,Injured Vascular Smooth Muscle Cells 3,0.816,Vascular Smooth Muscle Cells 1,0.773,Injured Vascular Smooth Muscle Cells 2,0.753
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,NID2,10,Matrix producing cells,0.434,Parietal Epithelial Cells,0.382,Mesangial Cells,0.203
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,ITIH4,10,Injured Vascular Smooth Muscle Cells 1,0.875,Injured Vascular Smooth Muscle Cells 3,0.855,Renin Producing Smooth Muscle Cells,0.743
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,LGALS3,10,Parietal Epithelial Cells,0.25,Injured Vascular Smooth Muscle Cells 2,0.234,Matrix producing cells,0.118
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,C2,7,Matrix producing cells,0.25,Injured Vascular Smooth Muscle Cells 3,0.026,Mesangial Cells,0.014
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,VEGFA,10,Matrix producing cells,0.447,Parietal Epithelial Cells,0.309,Pericytes 2,0.157
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,LOXL4,6,Matrix producing cells,0.092,Pericytes 1,0.027,Injured Vascular Smooth Muscle Cells 1,0.018
+Mouse_PDGFRBplus_Level3_Fractio,mouse,3,specificity,CASP7,10,Matrix producing cells,0.211,Pericytes 1,0.195,Pericytes 2,0.181
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,HGF,8,Matrix producing cells,0.211,Renin Producing Smooth Muscle Cells,0.006,Injured Vascular Smooth Muscle Cells 1,0.004
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,C2,3,Matrix producing cells,0.183,Injured Vascular Smooth Muscle Cells 3,0.002,Mesangial Cells,0.001
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,ACE,3,Matrix producing cells,0.133,Vascular Smooth Muscle Cells 1,0.007,Parietal Epithelial Cells,0.002
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,NID2,9,Matrix producing cells,0.12,Parietal Epithelial Cells,0.084,Mesangial Cells,0.026
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,VEGFA,10,Matrix producing cells,0.114,Parietal Epithelial Cells,0.049,Vascular Smooth Muscle Cells 1,0.021
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,TNFRSF1A,10,Injured Vascular Smooth Muscle Cells 1,0.126,Pericytes 1,0.111,Matrix producing cells,0.089
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,CCL2,5,Matrix producing cells,0.067,Parietal Epithelial Cells,0.008,Injured Vascular Smooth Muscle Cells 1,0.002
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,LOXL4,5,Matrix producing cells,0.043,Pericytes 1,0.005,Injured Vascular Smooth Muscle Cells 1,0.002
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,TGFB3,10,Vascular Smooth Muscle Cells 1,0.188,Injured Vascular Smooth Muscle Cells 3,0.093,Injured Vascular Smooth Muscle Cells 2,0.08
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,CASP7,10,Pericytes 1,0.032,Vascular Smooth Muscle Cells 1,0.027,Matrix producing cells,0.025
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,UMOD,10,Parietal Epithelial Cells,0.037,Vascular Smooth Muscle Cells 1,0.033,Injured Vascular Smooth Muscle Cells 3,0.03
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,ITIH4,10,Injured Vascular Smooth Muscle Cells 1,0.206,Renin Producing Smooth Muscle Cells,0.134,Injured Vascular Smooth Muscle Cells 3,0.133
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,LGALS3,8,Parietal Epithelial Cells,0.057,Injured Vascular Smooth Muscle Cells 2,0.056,Injured Vascular Smooth Muscle Cells 1,0.017
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,LCN2,10,Injured Vascular Smooth Muscle Cells 1,0.026,Parietal Epithelial Cells,0.023,Injured Vascular Smooth Muscle Cells 3,0.02
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,HAVCR1,7,Injured Vascular Smooth Muscle Cells 2,0.01,Injured Vascular Smooth Muscle Cells 1,0.007,Pericytes 1,0.007
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,MMP7,7,Matrix producing cells,0.005,Injured Vascular Smooth Muscle Cells 3,0.005,Parietal Epithelial Cells,0.005
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,DPP4,10,Parietal Epithelial Cells,0.107,Pericytes 1,0.009,Injured Vascular Smooth Muscle Cells 1,0.007
+Mouse_PDGFRBplus_Level3_Specifi,mouse,3,specificity,TUFT1,3,Parietal Epithelial Cells,0.222,Matrix producing cells,0.004,Mesangial Cells,0.002
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,DPP4,6,Parietal Epithelial Cells,0.353,Pericytes,0.071,Injured Vascular Smooth Muscle Cells,0.068
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,LCN2,6,Parietal Epithelial Cells,0.162,Injured Vascular Smooth Muscle Cells,0.125,Mesangial Cells,0.095
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,TUFT1,6,Parietal Epithelial Cells,0.324,Matrix producing cells,0.039,Mesangial Cells,0.027
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,HGF,5,Matrix producing cells,0.395,Mesangial Cells,0.054,Injured Vascular Smooth Muscle Cells,0.038
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,TNFRSF1A,6,Matrix producing cells,0.947,Injured Vascular Smooth Muscle Cells,0.913,Mesangial Cells,0.838
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,UMOD,6,Parietal Epithelial Cells,0.324,Matrix producing cells,0.237,Pericytes,0.209
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,MMP7,5,Parietal Epithelial Cells,0.029,Matrix producing cells,0.026,Injured Vascular Smooth Muscle Cells,0.011
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,HAVCR1,5,Matrix producing cells,0.039,Injured Vascular Smooth Muscle Cells,0.034,Pericytes,0.031
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,CCL2,5,Matrix producing cells,0.118,Parietal Epithelial Cells,0.044,Mesangial Cells,0.014
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,ACE,6,Matrix producing cells,0.237,Parietal Epithelial Cells,0.029,Vascular Smooth Muscle Cells,0.026
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,TGFB3,6,Injured Vascular Smooth Muscle Cells,0.683,Vascular Smooth Muscle Cells,0.634,Pericytes,0.577
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,NID2,6,Matrix producing cells,0.434,Parietal Epithelial Cells,0.382,Mesangial Cells,0.203
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,ITIH4,6,Injured Vascular Smooth Muscle Cells,0.808,Vascular Smooth Muscle Cells,0.348,Mesangial Cells,0.297
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,LGALS3,6,Parietal Epithelial Cells,0.25,Injured Vascular Smooth Muscle Cells,0.132,Matrix producing cells,0.118
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,C2,5,Matrix producing cells,0.25,Mesangial Cells,0.014,Injured Vascular Smooth Muscle Cells,0.011
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,VEGFA,6,Matrix producing cells,0.447,Parietal Epithelial Cells,0.309,Mesangial Cells,0.135
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,LOXL4,5,Matrix producing cells,0.092,Pericytes,0.015,Mesangial Cells,0.014
+Mouse_PDGFRBplus_Level2_Fractio,mouse,2,specificity,CASP7,6,Matrix producing cells,0.211,Pericytes,0.189,Mesangial Cells,0.135
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,HGF,5,Matrix producing cells,0.211,Injured Vascular Smooth Muscle Cells,0.007,Vascular Smooth Muscle Cells,0.005
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,C2,4,Matrix producing cells,0.183,Injured Vascular Smooth Muscle Cells,0.001,Mesangial Cells,0.001
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,ACE,4,Matrix producing cells,0.133,Vascular Smooth Muscle Cells,0.006,Parietal Epithelial Cells,0.002
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,NID2,6,Matrix producing cells,0.12,Parietal Epithelial Cells,0.084,Mesangial Cells,0.026
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,VEGFA,6,Matrix producing cells,0.114,Parietal Epithelial Cells,0.049,Vascular Smooth Muscle Cells,0.022
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,TNFRSF1A,6,Injured Vascular Smooth Muscle Cells,0.288,Pericytes,0.164,Vascular Smooth Muscle Cells,0.156
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,CCL2,4,Matrix producing cells,0.067,Parietal Epithelial Cells,0.008,Injured Vascular Smooth Muscle Cells,0.001
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,LOXL4,4,Matrix producing cells,0.043,Pericytes,0.003,Injured Vascular Smooth Muscle Cells,0.002
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,TGFB3,6,Injured Vascular Smooth Muscle Cells,0.226,Vascular Smooth Muscle Cells,0.201,Pericytes,0.119
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,CASP7,6,Pericytes,0.052,Injured Vascular Smooth Muscle Cells,0.031,Vascular Smooth Muscle Cells,0.028
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,UMOD,6,Injured Vascular Smooth Muscle Cells,0.049,Vascular Smooth Muscle Cells,0.048,Pericytes,0.045
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,ITIH4,6,Injured Vascular Smooth Muscle Cells,0.414,Vascular Smooth Muscle Cells,0.079,Pericytes,0.031
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,LGALS3,5,Injured Vascular Smooth Muscle Cells,0.062,Parietal Epithelial Cells,0.057,Matrix producing cells,0.014
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,LCN2,6,Injured Vascular Smooth Muscle Cells,0.053,Parietal Epithelial Cells,0.023,Pericytes,0.009
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,HAVCR1,4,Injured Vascular Smooth Muscle Cells,0.015,Pericytes,0.009,Matrix producing cells,0.006
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,MMP7,5,Matrix producing cells,0.005,Parietal Epithelial Cells,0.005,Injured Vascular Smooth Muscle Cells,0.003
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,DPP4,6,Parietal Epithelial Cells,0.107,Injured Vascular Smooth Muscle Cells,0.015,Pericytes,0.013
+Mouse_PDGFRBplus_Level2_Specifi,mouse,2,specificity,TUFT1,3,Parietal Epithelial Cells,0.222,Matrix producing cells,0.004,Mesangial Cells,0.002
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,LCN2,10,Injured Epithelial,0.722,Myofibroblasts 3b,0.134,Myofibroblasts 3c,0.127
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,DPP4,9,Fibroblasts 1,0.105,Macrophage,0.09,Injured Epithelial,0.063
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,TUFT1,9,Injured Epithelial,0.143,Myofibroblasts 3a,0.042,Fibroblasts 1,0.031
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,HGF,10,Myofibroblasts 3a,0.291,Unknown Mesenchymal,0.25,Myofibroblasts 2,0.215
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,TNFRSF1A,10,Myofibroblasts 3a,0.927,Myofibroblasts 3b,0.911,Myofibroblasts 3c,0.903
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,UMOD,10,Injured Epithelial,0.664,Myofibroblasts 3b,0.223,Myofibroblasts 3a,0.214
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,MMP7,4,Injured Epithelial,0.058,Endothelial cells,0.003,Myofibroblasts 3b,0.003
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,HAVCR1,8,Injured Epithelial,0.031,Macrophage,0.005,Myofibroblasts 1,0.005
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,CCL2,10,Macrophage,0.497,Fibroblasts 1,0.265,Injured Epithelial,0.22
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,ACE,10,Fibroblasts 1,0.22,Myofibroblasts 1,0.154,Myofibroblasts 3c,0.097
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,TGFB3,10,Myofibroblasts 3b,0.311,Myofibroblasts 1,0.285,Fibroblasts 1,0.206
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,NID2,10,Myofibroblasts 3b,0.368,Myofibroblasts 3a,0.367,Myofibroblasts 2,0.25
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,ITIH4,7,Fibroblasts 1,0.008,Injured Epithelial,0.004,Myofibroblasts 2,0.004
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,LGALS3,10,Injured Epithelial,0.794,Macrophage,0.653,Myofibroblasts 3c,0.397
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,C2,10,Fibroblasts 1,0.673,Unknown Mesenchymal,0.5,Myofibroblasts 2,0.416
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,TNF,9,Macrophage,0.191,Injured Epithelial,0.063,Fibroblasts 1,0.008
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,VEGFA,10,Unknown Mesenchymal,0.263,Myofibroblasts 3b,0.158,Fibroblasts 1,0.14
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,LOXL4,8,Myofibroblasts 3a,0.024,Fibroblasts 1,0.018,Myofibroblasts 3b,0.014
+Mouse_PDGFRABplus_Level3_Fracti,mouse,3,specificity,CASP7,10,Endothelial cells,0.127,Myofibroblasts 3a,0.106,Injured Epithelial,0.099
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,TNF,2,Macrophage,0.093,Injured Epithelial,0.011,Fibroblasts 1,0.0
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,LGALS3,9,Myofibroblasts 3c,0.102,Injured Epithelial,0.069,Myofibroblasts 1,0.053
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,CCL2,10,Macrophage,0.037,Myofibroblasts 3c,0.037,Fibroblasts 1,0.027
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,DPP4,4,Fibroblasts 1,0.056,Macrophage,0.016,Injured Epithelial,0.009
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,TNFRSF1A,10,Myofibroblasts 3c,0.175,Myofibroblasts 1,0.174,Myofibroblasts 2,0.147
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,UMOD,10,Injured Epithelial,0.065,Myofibroblasts 1,0.041,Myofibroblasts 3c,0.037
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,LCN2,9,Injured Epithelial,0.126,Myofibroblasts 3c,0.023,Myofibroblasts 1,0.019
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,CASP7,9,Myofibroblasts 1,0.02,Myofibroblasts 3a,0.017,Myofibroblasts 3c,0.017
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,HGF,8,Myofibroblasts 3a,0.061,Myofibroblasts 2,0.052,Myofibroblasts 1,0.042
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,TGFB3,10,Myofibroblasts 1,0.077,Myofibroblasts 3b,0.048,Myofibroblasts 3c,0.033
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,C2,10,Myofibroblasts 2,0.096,Fibroblasts 1,0.083,Myofibroblasts 3c,0.071
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,VEGFA,9,Myofibroblasts 3b,0.024,Myofibroblasts 3a,0.018,Myofibroblasts 2,0.017
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,TUFT1,7,Injured Epithelial,0.025,Myofibroblasts 3a,0.009,Myofibroblasts 3c,0.005
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,MMP7,1,Injured Epithelial,0.04,Macrophage,0.0,Fibroblasts 1,0.0
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,HAVCR1,3,Injured Epithelial,0.009,Myofibroblasts 1,0.001,Myofibroblasts 3a,0.001
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,ACE,7,Myofibroblasts 1,0.051,Fibroblasts 1,0.038,Myofibroblasts 3c,0.019
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,NID2,9,Myofibroblasts 3a,0.079,Myofibroblasts 3b,0.059,Myofibroblasts 2,0.057
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,ITIH4,2,Fibroblasts 1,0.002,Myofibroblasts 2,0.002,Macrophage,0.0
+Mouse_PDGFRAB_Level3_Specificit,mouse,3,specificity,LOXL4,6,Myofibroblasts 3a,0.007,Fibroblasts 1,0.002,Myofibroblasts 3b,0.002
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,LCN2,6,Injured Tubule,0.722,Myofibroblasts,0.108,Fibroblasts,0.103
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,DPP4,6,Fibroblasts,0.105,Immune,0.09,Injured Tubule,0.063
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,TUFT1,5,Injured Tubule,0.143,Fibroblasts,0.031,Unknown Mesenchymal,0.026
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,HGF,6,Unknown Mesenchymal,0.25,Myofibroblasts,0.211,Fibroblasts,0.115
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,TNFRSF1A,6,Myofibroblasts,0.861,Endothelial cells,0.784,Fibroblasts,0.66
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,UMOD,6,Injured Tubule,0.664,Myofibroblasts,0.196,Fibroblasts,0.161
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,MMP7,3,Injured Tubule,0.058,Endothelial cells,0.003,Myofibroblasts,0.001
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,HAVCR1,4,Injured Tubule,0.031,Immune,0.005,Endothelial cells,0.003
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,CCL2,6,Immune,0.497,Fibroblasts,0.265,Injured Tubule,0.22
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,ACE,6,Fibroblasts,0.22,Myofibroblasts,0.085,Injured Tubule,0.045
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,TGFB3,6,Myofibroblasts,0.218,Fibroblasts,0.206,Unknown Mesenchymal,0.197
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,NID2,6,Myofibroblasts,0.247,Unknown Mesenchymal,0.211,Fibroblasts,0.206
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,ITIH4,4,Fibroblasts,0.008,Injured Tubule,0.004,Endothelial cells,0.003
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,LGALS3,6,Injured Tubule,0.794,Immune,0.653,Myofibroblasts,0.255
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,C2,6,Fibroblasts,0.673,Unknown Mesenchymal,0.5,Myofibroblasts,0.383
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,TNF,5,Immune,0.191,Injured Tubule,0.063,Fibroblasts,0.008
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,VEGFA,6,Unknown Mesenchymal,0.263,Fibroblasts,0.14,Myofibroblasts,0.104
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,LOXL4,4,Fibroblasts,0.018,Unknown Mesenchymal,0.013,Myofibroblasts,0.012
+Mouse_PDGFRAB_Level2_FractionDe,mouse,2,fraction_detected,CASP7,6,Endothelial cells,0.127,Injured Tubule,0.099,Myofibroblasts,0.094
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,LCN2,5,Injured Tubule,0.126,Myofibroblasts,0.077,Fibroblasts,0.006
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,DPP4,4,Fibroblasts,0.056,Immune,0.016,Injured Tubule,0.009
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,TUFT1,3,Injured Tubule,0.025,Myofibroblasts,0.016,Fibroblasts,0.003
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,HGF,4,Myofibroblasts,0.194,Fibroblasts,0.005,Unknown Mesenchymal,0.003
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,TNFRSF1A,6,Myofibroblasts,0.734,Fibroblasts,0.037,Endothelial cells,0.037
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,UMOD,6,Myofibroblasts,0.153,Injured Tubule,0.065,Fibroblasts,0.009
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,MMP7,1,Injured Tubule,0.04,Fibroblasts,0.0,Endothelial cells,0.0
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,HAVCR1,2,Injured Tubule,0.009,Myofibroblasts,0.002,Fibroblasts,0.0
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,CCL2,6,Myofibroblasts,0.123,Immune,0.037,Fibroblasts,0.027
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,ACE,3,Myofibroblasts,0.067,Fibroblasts,0.038,Injured Tubule,0.001
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,TGFB3,6,Myofibroblasts,0.193,Fibroblasts,0.015,Unknown Mesenchymal,0.002
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,NID2,5,Myofibroblasts,0.216,Fibroblasts,0.013,Endothelial cells,0.004
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,ITIH4,2,Fibroblasts,0.002,Myofibroblasts,0.001,Endothelial cells,0.0
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,LGALS3,5,Myofibroblasts,0.194,Injured Tubule,0.069,Immune,0.042
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,C2,6,Myofibroblasts,0.315,Fibroblasts,0.083,Unknown Mesenchymal,0.007
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,TNF,3,Immune,0.093,Injured Tubule,0.011,Myofibroblasts,0.001
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,VEGFA,5,Myofibroblasts,0.086,Fibroblasts,0.013,Unknown Mesenchymal,0.007
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,LOXL4,2,Myofibroblasts,0.01,Fibroblasts,0.002,Endothelial cells,0.0
+Mouse_PDGFRAB_Level2_Specificit,mouse,2,specificity,CASP7,5,Myofibroblasts,0.078,Endothelial cells,0.009,Fibroblasts,0.003

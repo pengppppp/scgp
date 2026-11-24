@@ -1,0 +1,9 @@
+gene,in_state_scoring_panel,in_486_candidate_panel,eqtl_mr,pqtl_mr
+TGFB3,maladaptive repair,yes,tier-A (2 FDR endpoints),null
+TNFRSF1A,injury,yes,"tier-B (3 nominal, 1 FDR)",1 nominal
+LGALS3,-,yes,tier-B (2 nominal),untestable (palindromic)
+LCN2,-,yes,1/6 nominal,null
+CCL2,maladaptive repair,yes,not replicated,null
+MMP7,injury,no,not testable (no instrument),not covered
+HAVCR1,injury,no,not testable (no instrument),not covered
+UMOD,-,no,not testable (no instrument),not testable

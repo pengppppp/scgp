@@ -1,0 +1,10 @@
+[07:01:23] coloc: 4 genes x 6 endpoints; JWT=set
+[07:03:41] eQTLGen pass: 127,341,798 rows in 139s
+[07:03:42] FinnGen target rsIDs: 94,069
+[07:04:06]   N14_CHRONKIDNEYDIS: 65,556 rows in 24s
+[07:04:30]   N14_RENFAIL: 65,556 rows in 24s
+[07:04:55]   N14_RENALTUB: 65,556 rows in 25s
+[07:05:19]   DM_NEPHROPATHY: 65,555 rows in 24s
+[07:05:44]   N14_IGA_NEPHROPATHY: 65,556 rows in 25s
+[07:06:09]   I9_HYPTENSRD: 65,555 rows in 25s
+[07:06:38] LOXL4: 5734 regional SNPs across 6 endpoints; pruning...

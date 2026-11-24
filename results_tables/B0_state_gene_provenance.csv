@@ -1,0 +1,3 @@
+dataset,file,n_deg_lineages_kept,n_sig_degs
+GSE209781,A6_condition_DEGs_per_lineage_GSE209781.csv,10,6403
+GSE242425,A6_condition_DEGs_per_lineage_GSE242425.csv,10,13290

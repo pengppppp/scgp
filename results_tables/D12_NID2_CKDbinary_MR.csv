@@ -1,0 +1,2 @@
+gene,outcome,n_cases,n_controls,n_instruments,ivw_beta_logOR,ivw_OR,ivw_CI,ivw_p,egger_intercept,egger_intercept_p,weighted_median_beta,weighted_median_p,cochran_Q,cochran_Q_p
+NID2,CKDGen_CKD_binary_EA (Wuttke 2019),41395,439303,11,0.0043,1.01,1.003-1.017,0.007356459500741431,0.01,0.008762845386333113,0.008,0.4138633710494579,184.38,2.8855444013651214e-34

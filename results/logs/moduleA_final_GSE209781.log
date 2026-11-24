@@ -1,0 +1,38 @@
+[05:20:37] Module A start | dataset=GSE209781 | contrast=DKD vs normal
+[05:21:00]   NM01: 6794880 barcodes -> 8006 cells after per-sample QC
+[05:21:00]   NM01 (normal): 8006 cells x 36601 genes
+[05:21:19]   NM02: 6794880 barcodes -> 10528 cells after per-sample QC
+[05:21:19]   NM02 (normal): 10528 cells x 36601 genes
+[05:21:41]   NM03: 6794880 barcodes -> 4052 cells after per-sample QC
+[05:21:41]   NM03 (normal): 4052 cells x 36601 genes
+[05:22:04]   DKD01: 6794880 barcodes -> 3756 cells after per-sample QC
+[05:22:04]   DKD01 (DKD): 3756 cells x 36601 genes
+[05:22:26]   DKD02: 6794880 barcodes -> 9132 cells after per-sample QC
+[05:22:26]   DKD02 (DKD): 9132 cells x 36601 genes
+[05:22:45]   DKD03: 6794880 barcodes -> 5105 cells after per-sample QC
+[05:22:45]   DKD03 (DKD): 5105 cells x 36601 genes
+[05:22:46] loaded 40579 cells x 36601 genes
+[05:22:49] QC filter: 40579 -> 40579 cells
+<user-home>\.workbuddy\binaries\python\versions\3.13.12\Lib\functools.py:934: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+[05:22:58] replicate structure: {'DKD': 3, 'normal': 3} (key=sample); batch collinear with condition: True
+[05:23:10] batch correction: none (batch collinear with condition at n<5/group; inference at donor level via pseudobulk)
+[05:24:09] condition ASW on PCA embedding: 0.029 (0 = perfectly mixed by condition; >0.1 = conditions separated in the embedding. With n=3 donors per condition and NO batch correction, a positive ASW is EXPECTED and is the reason all condition inference is done at the donor/pseudobulk level rather than on embeddings)
+[05:24:17] lineage assignment: 36698/40579 cells assigned (threshold: score>0, margin>0.02)
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:609: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "scores"] = scores[global_indices]
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:612: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "pvals"] = pvals[global_indices]
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:622: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "pvals_adj"] = pvals_adj[global_indices]
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:633: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "logfoldchanges"] = np.log2(
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:607: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "names"] = self.var_names[global_indices]
+[05:25:29] pseudobulk DEGs (DKD vs normal): 9293 nominal (p<0.05, |log2FC|>=0.5) of 299629 tests; 0 survive BH-FDR correction (expected: with n=3 donors per condition, donor-level FDR control is extremely stringent - reported transparently; downstream claims do not rely on single-DEG significance)
+[05:25:30]   state panel injury: 8/8 genes present
+[05:25:45]   state panel maladaptive_repair: 8/8 genes present
+[05:26:00]   state panel fibroblast_activation: 8/8 genes present
+[05:26:19] Module A done for GSE209781: cells=40579, lineages=16, clusters=31
+[05:26:19] outputs -> D:\Journal of Translational Medicine\data\processed | D:\Journal of Translational Medicine\results\tables | D:\Journal of Translational Medicine\results\figures
+A2_EXIT=0

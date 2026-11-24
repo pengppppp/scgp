@@ -1,0 +1,592 @@
+gene,ensembl_id,drug,drug_chembl_id,drug_type,max_phase,trial_phase,status,moa,withdrawn,source,in_druggable_genome
+A2M,,TECHNETIUM TC 99M SUCCIMER,CHEMBL1200797,Small molecule,4,4,Approved,Alpha-2-macroglobulin binding agent,False,ChEMBL:CHEMBL4295690,False
+ACE,,QUINAPRIL HYDROCHLORIDE,CHEMBL1201011,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,TRANDOLAPRIL,CHEMBL1519,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,MOEXIPRIL HYDROCHLORIDE,CHEMBL1200534,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,ENALAPRILAT,CHEMBL3989406,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,RAMIPRIL,CHEMBL1168,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,FOSINOPRIL SODIUM,CHEMBL3039596,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,BENAZEPRIL HYDROCHLORIDE,CHEMBL1694,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,CAPTOPRIL,CHEMBL1560,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,PERINDOPRIL ERBUMINE,CHEMBL1200343,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,LISINOPRIL,CHEMBL419213,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,ENALAPRIL MALEATE,CHEMBL1200659,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,SPIRAPRIL HYDROCHLORIDE,CHEMBL1200831,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,PERINDOPRIL ARGININE,CHEMBL3544986,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,CILAZAPRIL,CHEMBL515606,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,IMIDAPRIL,CHEMBL317094,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,DELAPRIL,CHEMBL589583,Small molecule,3,3,Clinical/Preclinical,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACE,,ILEPATRIL,CHEMBL3187812,Small molecule,2,2,Clinical/Preclinical,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True
+ACP5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ACRBP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADAM12,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADAM9,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADAMTS13,,APADAMTASE ALFA,CHEMBL4594607,Enzyme,4,4,Approved,A disintegrin and metalloproteinase with thrombospondin motifs 13 exogenous protein,False,ChEMBL:CHEMBL2346492,False
+ADAMTS17,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADAMTS4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADAMTS5,,ALDUMASTAT,CHEMBL4650334,Small molecule,2,2,Clinical/Preclinical,ADAMTS5 inhibitor,False,ChEMBL:CHEMBL2285,False
+ADAMTS6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADIPOR1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ADM,,ENIBARCIMAB,CHEMBL4650434,Antibody,2,2,Clinical/Preclinical,ADM stabiliser,False,ChEMBL:CHEMBL2062356,False
+ADM2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+AEBP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+AGGF1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+AGRN,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ALCAM,,PRALUZATAMAB RAVTANSINE,CHEMBL4297736,Antibody drug conjugate,2,2,Clinical/Preclinical,CD166 antigen binding agent,False,ChEMBL:CHEMBL4665584,False
+AMH,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+AMY2B,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ANGPT1,,TREBANANIB,CHEMBL2108568,Unknown,3,3,Clinical/Preclinical,Angiopoietin-1 inhibitor,False,ChEMBL:CHEMBL3217395,False
+ANGPT1,,AMG-780,CHEMBL2109586,Unknown,1,1,Clinical/Preclinical,Angiopoietin-1 inhibitor,False,ChEMBL:CHEMBL3217395,False
+ANGPTL6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ANTXR2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ANXA1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ANXA2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+APOD,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+APOL4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+APP,,GANTENERUMAB,CHEMBL1743025,Antibody,3,3,Clinical/Preclinical,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True
+APP,,SOLANEZUMAB,CHEMBL1743072,Antibody,3,3,Clinical/Preclinical,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True
+APP,,BAPINEUZUMAB,CHEMBL2108576,Antibody,3,3,Clinical/Preclinical,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True
+APP,,ADUCANUMAB,CHEMBL3039540,Antibody,4,4,Approved,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True
+APP,,CRENEZUMAB,CHEMBL1743004,Antibody,3,3,Clinical/Preclinical,Amyloid-beta A4 protein inhibitor,False,ChEMBL:CHEMBL2487,True
+APP,,PONEZUMAB,CHEMBL1743058,Antibody,2,2,Clinical/Preclinical,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True
+APP,,GSK933776,CHEMBL2109300,Unknown,2,2,Clinical/Preclinical,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True
+APP,,LECANEMAB,CHEMBL3833321,Antibody,4,4,Approved,Amyloid-beta A4 protein inhibitor,False,ChEMBL:CHEMBL2487,True
+APP,,TRAMIPROSATE,CHEMBL149082,Small molecule,3,3,Clinical/Preclinical,Amyloid-beta A4 protein stabiliser,False,ChEMBL:CHEMBL2487,True
+APP,,DONANEMAB,CHEMBL4297245,Antibody,4,4,Approved,Amyloid-beta A4 protein disrupting agent,False,ChEMBL:CHEMBL2487,True
+APP,,VANUTIDE CRIDIFICAR,CHEMBL2108058,Protein,2,2,Clinical/Preclinical,Amyloid-beta A4 protein vaccine antigen,False,ChEMBL:CHEMBL2487,True
+APP,,AMILOMOTIDE,CHEMBL2108328,Protein,2,2,Clinical/Preclinical,Amyloid-beta A4 protein vaccine antigen,False,ChEMBL:CHEMBL2487,True
+APP,,VALILTRAMIPROSATE,CHEMBL4650301,Small molecule,3,3,Clinical/Preclinical,Amyloid-beta A4 protein stabiliser,False,ChEMBL:CHEMBL2487,True
+ATRN,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+B3GAT1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+BMP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+BMP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+BTBD17,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+BTD,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C1GALT1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C1QTNF3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C1QTNF4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C1QTNF6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C1R,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C1S,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Complement C1s inhibitor,False,ChEMBL:CHEMBL3913,False
+C1S,,SUTIMLIMAB,CHEMBL4297832,Antibody,4,4,Approved,Complement C1s inhibitor,False,ChEMBL:CHEMBL3913,False
+C2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+C3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+CA11,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CASP7,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CCDC3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CCL28,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CCR1,,CCX354,CHEMBL4444976,Small molecule,2,2,Clinical/Preclinical,C-C chemokine receptor type 1 antagonist,False,ChEMBL:CHEMBL2413,False
+CCR1,,AZD4818,CHEMBL2178570,Small molecule,2,2,Clinical/Preclinical,C-C chemokine receptor type 1 antagonist,False,ChEMBL:CHEMBL2413,False
+CCR1,,BMS-817399,CHEMBL3334824,Small molecule,2,2,Clinical/Preclinical,C-C chemokine receptor type 1 antagonist,False,ChEMBL:CHEMBL2413,False
+CD14,,IC14,CHEMBL2109330,Unknown,2,2,Clinical/Preclinical,Monocyte differentiation antigen CD14 inhibitor,False,ChEMBL:CHEMBL2384897,False
+CD14,,VB-201,CHEMBL4297333,Small molecule,2,2,Clinical/Preclinical,Monocyte differentiation antigen CD14 inhibitor,False,ChEMBL:CHEMBL2384897,False
+CD163L1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CD177,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CD40,,DACETUZUMAB,CHEMBL1743005,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 inhibitor,False,ChEMBL:CHEMBL1250358,False
+CD40,,TENELIXIMAB,CHEMBL2108144,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 partial agonist,False,ChEMBL:CHEMBL1250358,False
+CD40,,PG-102,CHEMBL2109475,Unknown,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 inhibitor,False,ChEMBL:CHEMBL1250358,False
+CD40,,LUCATUMUMAB,CHEMBL1743038,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 antagonist,False,ChEMBL:CHEMBL1250358,False
+CD40,,SELICRELUMAB,CHEMBL2109477,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 agonist,False,ChEMBL:CHEMBL1250358,False
+CD40,,ISCALIMAB,CHEMBL4298210,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 inhibitor,False,ChEMBL:CHEMBL1250358,False
+CD40,,BLESELUMAB,CHEMBL3990028,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 inhibitor,False,ChEMBL:CHEMBL1250358,False
+CD40,,SOTIGALIMAB,CHEMBL4297888,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 agonist,False,ChEMBL:CHEMBL1250358,False
+CD40,,CD40 LIGAND,CHEMBL4297718,Unknown,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 agonist,False,ChEMBL:CHEMBL1250358,False
+CD40,,CDX-1140,CHEMBL4297721,Unknown,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 agonist,False,ChEMBL:CHEMBL1250358,False
+CD40,,GILORALIMAB,CHEMBL4594517,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 5 agonist,False,ChEMBL:CHEMBL1250358,False
+CD55,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CD63,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CD8A,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CD8B,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CD9,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CDC42EP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CDCP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CEL,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CES4A,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CFH,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CGREF1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CHI3L1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CHID1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CHL1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CHSY1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CILP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CKLF,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CLN5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CNPY4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CNTNAP3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL10A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL13A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL15A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL17A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL1A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL24A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL4A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL5A3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL8A2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+COL9A3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CORIN,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CPQ,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CRB2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CREG1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CRIM1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CRISPLD2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CSF3R,,FILGRASTIM,CHEMBL1201567,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,PEGFILGRASTIM,CHEMBL1201568,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,BALUGRASTIM,CHEMBL2108572,Protein,2,2,Clinical/Preclinical,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,LIPEGFILGRASTIM,CHEMBL4594230,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,PEGTEOGRASTIM,CHEMBL4297800,Protein,2,2,Clinical/Preclinical,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,LENOGRASTIM,CHEMBL2109128,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,ANUMIGILIMAB,CHEMBL4650461,Antibody,2,2,Clinical/Preclinical,Granulocyte colony stimulating factor receptor antagonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,EFLAPEGRASTIM,CHEMBL3833384,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,REGRAMOSTIM,CHEMBL2107881,Protein,3,3,Clinical/Preclinical,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CSF3R,,EFBEMALENOGRASTIM ALFA,CHEMBL4297950,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False
+CST7,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CTSB,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CTSD,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CXCL1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CXCL10,,NI-0801,CHEMBL2109379,Unknown,2,2,Clinical/Preclinical,C-X-C motif chemokine 10 inhibitor,False,ChEMBL:CHEMBL3712964,False
+CXCL10,,ELDELUMAB,CHEMBL2109664,Antibody,2,2,Clinical/Preclinical,C-X-C motif chemokine 10 inhibitor,False,ChEMBL:CHEMBL3712964,False
+CXCL16,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CXCL6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+CYTL1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+DAG1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+DISP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+DKK2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+DNASE1L3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+DPP4,,ALOGLIPTIN BENZOATE,CHEMBL227529,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,SITAGLIPTIN PHOSPHATE,CHEMBL1201174,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,LINAGLIPTIN,CHEMBL237500,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,SAXAGLIPTIN HYDROCHLORIDE,CHEMBL1201743,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,GOSOGLIPTIN,CHEMBL515387,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,CARMEGLIPTIN,CHEMBL591118,Small molecule,2,2,Clinical/Preclinical,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,TRELAGLIPTIN SUCCINATE,CHEMBL2105754,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,OMARIGLIPTIN,CHEMBL2105762,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,VILDAGLIPTIN,CHEMBL142703,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,BEGELOMAB,CHEMBL3833357,Antibody,3,3,Clinical/Preclinical,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,DUTOGLIPTIN,CHEMBL4296719,Small molecule,3,3,Clinical/Preclinical,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,GEMIGLIPTIN,CHEMBL3707235,Small molecule,3,3,Clinical/Preclinical,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,TENELIGLIPTIN,CHEMBL2147777,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,ANAGLIPTIN,CHEMBL1929396,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,EVOGLIPTIN,CHEMBL1779710,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,BISEGLIPTIN,CHEMBL4297624,Small molecule,2,2,Clinical/Preclinical,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,DBPR-108,CHEMBL1082462,Small molecule,3,3,Clinical/Preclinical,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,SITAGLIPTIN FUMARATE,CHEMBL5315049,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP4,,SITAGLIPTIN HYDROCHLORIDE MONOHYDRATE,CHEMBL6068334,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True
+DPP7,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+DSG2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ECM1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EDN3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EFEMP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EFNA1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EMID1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EMILIN2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ENDOD1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ENPP2,,ZIRITAXESTAT,CHEMBL3828074,Small molecule,3,3,Clinical/Preclinical,Autotaxin inhibitor,False,ChEMBL:CHEMBL3691,False
+ENPP3,,AGS-16C3F,CHEMBL4594455,Unknown,2,2,Clinical/Preclinical,Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 binding agent,False,ChEMBL:CHEMBL5580,False
+ENTPD5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EPDR1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ESM1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+EXT2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+F10,,APIXABAN,CHEMBL231779,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,RIVAROXABAN,CHEMBL198362,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,EDOXABAN TOSYLATE,CHEMBL2105682,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,BETRIXABAN,CHEMBL512351,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,IDRAPARINUX SODIUM,CHEMBL5314374,Oligosaccharide,3,3,Clinical/Preclinical,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,LETAXABAN,CHEMBL1095032,Small molecule,2,2,Clinical/Preclinical,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,ANTITHROMBIN ALFA,CHEMBL1201554,Protein,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,OTAMIXABAN,CHEMBL46618,Small molecule,3,3,Clinical/Preclinical,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,BEMIPARIN,CHEMBL3707365,Oligosaccharide,3,3,Clinical/Preclinical,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,DAREXABAN,CHEMBL1922235,Small molecule,3,3,Clinical/Preclinical,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,IDRABIOTAPARINUX SODIUM,CHEMBL4297768,Oligosaccharide,3,3,Clinical/Preclinical,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True
+F10,,COAGULATION FACTOR X HUMAN,CHEMBL4297951,Unknown,4,4,Approved,Coagulation factor X exogenous protein,False,ChEMBL:CHEMBL244,True
+F10,,PROTHROMBIN COMPLEX CONCENTRATE,CHEMBL6068614,Protein,3,3,Clinical/Preclinical,Coagulation factor X exogenous protein,False,ChEMBL:CHEMBL244,True
+F12,,BISMUTH SUBGALLATE,CHEMBL1592101,Small molecule,4,4,Approved,Coagulation factor XII activator,True,ChEMBL:CHEMBL2821,False
+F12,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Coagulation factor XII inhibitor,False,ChEMBL:CHEMBL2821,False
+F7,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+FABP5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FAM20A,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FAM3D,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FBLN5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FBN1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FBXO45,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FCGR3A,,IMGATUZUMAB,CHEMBL2109389,Antibody,2,2,Clinical/Preclinical,Low affinity immunoglobulin gamma Fc region receptor III-A cross-linking agent,False,ChEMBL:CHEMBL3856162,False
+FCGR3A,,BEMARITUZUMAB,CHEMBL4802165,Antibody,3,3,Clinical/Preclinical,Low affinity immunoglobulin gamma Fc region receptor III-A binding agent,False,ChEMBL:CHEMBL3856162,False
+FCRLB,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FGF2,,MUPARFOSTAT,CHEMBL4297163,Unknown,3,3,Clinical/Preclinical,Basic fibroblast growth factor inhibitor,False,ChEMBL:CHEMBL3107,False
+FGFBP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FGFBP3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FGFR4,,FGF401,CHEMBL3908979,Small molecule,2,2,Clinical/Preclinical,Fibroblast growth factor receptor 4 inhibitor,False,ChEMBL:CHEMBL3973,False
+FKRP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FLT1,,AEE-788,CHEMBL587723,Small molecule,2,2,Clinical/Preclinical,Vascular endothelial growth factor receptor 1 inhibitor,False,ChEMBL:CHEMBL1868,False
+FLT1,,FAMITINIB,CHEMBL1278146,Small molecule,3,3,Clinical/Preclinical,Vascular endothelial growth factor receptor 1 inhibitor,False,ChEMBL:CHEMBL1868,False
+FLT1,,TG100-801,CHEMBL403989,Small molecule,2,2,Clinical/Preclinical,Vascular endothelial growth factor receptor 1 inhibitor,False,ChEMBL:CHEMBL1868,False
+FLT1,,ICRUCUMAB,CHEMBL1743030,Antibody,2,2,Clinical/Preclinical,Vascular endothelial growth factor receptor 1 antagonist,False,ChEMBL:CHEMBL1868,False
+FLT1,,SUNITINIB,CHEMBL535,Small molecule,4,4,Approved,Vascular endothelial growth factor receptor 1 inhibitor,False,ChEMBL:CHEMBL1868,False
+FN1,,BISMUTH SUBGALLATE,CHEMBL1592101,Small molecule,4,4,Approved,Coagulation factor XII activator,True,ChEMBL:CHEMBL2821,True
+FN1,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Coagulation factor XII inhibitor,False,ChEMBL:CHEMBL2821,True
+FOLR3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FST,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FSTL4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+FUCA2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GALNT1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GALNT2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GBP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GDF10,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GDF11,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GDF15,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GDF7,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GGH,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GNLY,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GPI,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GREM2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+GZMB,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+HBEGF,,KHK-2866,CHEMBL2109437,Unknown,1,1,Clinical/Preclinical,Proheparin-binding EGF-like growth factor inhibitor,False,ChEMBL:CHEMBL3286070,False
+HGF,,CABOZANTINIB S-MALATE,CHEMBL2103868,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,CRIZOTINIB,CHEMBL601719,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,BMS-794833,CHEMBL2143592,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,TELISOTUZUMAB,CHEMBL3545419,Antibody,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,AMG-208,CHEMBL496102,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,ARRY-300,CHEMBL3545359,Unknown,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,BMS-698769,CHEMBL3545299,Unknown,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,BMS-817378,CHEMBL3545050,Unknown,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,ALTIRATINIB,CHEMBL3545365,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,EMD-1204831,CHEMBL3960488,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,JNJ-38877605,CHEMBL2133806,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,MERESTINIB,CHEMBL3545307,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,MK-8033,CHEMBL2323775,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,PF-04217903,CHEMBL2001019,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,SAR-125844,CHEMBL4461070,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,SGX-523,CHEMBL1236107,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,TAS-115,CHEMBL3764045,Small molecule,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,BPI-9016,CHEMBL3545236,Unknown,1,1,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,AMG-337,CHEMBL3785909,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,SAVOLITINIB,CHEMBL3334567,Small molecule,3,3,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,BMS-777607,CHEMBL460702,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,GOLVATINIB,CHEMBL3039525,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,FORETINIB,CHEMBL1230609,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,MK-2461,CHEMBL1822792,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,AMUVATINIB,CHEMBL2103851,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,TEPOTINIB,CHEMBL3402762,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,CAPMATINIB,CHEMBL3188267,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,TIVANTINIB,CHEMBL2103882,Small molecule,3,3,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,ONARTUZUMAB,CHEMBL1743051,Antibody,3,3,Clinical/Preclinical,Hepatocyte growth factor receptor antagonist,False,ChEMBL:CHEMBL3717,False
+HGF,,EMIBETUZUMAB,CHEMBL3301578,Antibody,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,GLESATINIB,CHEMBL3989914,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,BEPERMINOGENE PERPLASMID,CHEMBL2108332,Gene,4,4,Approved,Hepatocyte growth factor receptor agonist,False,ChEMBL:CHEMBL3717,False
+HGF,,TELISOTUZUMAB VEDOTIN,CHEMBL3990032,Antibody drug conjugate,3,3,Clinical/Preclinical,Hepatocyte growth factor receptor binding agent,False,ChEMBL:CHEMBL3717,False
+HGF,,CAPMATINIB HYDROCHLORIDE,CHEMBL3989937,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,TEPOTINIB HYDROCHLORIDE,CHEMBL4594292,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,NINGETINIB,CHEMBL3984441,Small molecule,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,AMIVANTAMAB,CHEMBL4297774,Antibody,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HGF,,TEREVALEFIM,CHEMBL4650326,Small molecule,3,3,Clinical/Preclinical,Hepatocyte growth factor receptor agonist,False,ChEMBL:CHEMBL3717,False
+HGF,,BAFISONTAMAB,CHEMBL4594472,Antibody,2,2,Clinical/Preclinical,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False
+HHIPL1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+HILPDA,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+HTRA3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+HYAL3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IFI30,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IFI35,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IGF2,,DUSIGITUMAB,CHEMBL2109355,Antibody,2,2,Clinical/Preclinical,Insulin-like growth factor II inhibitor,False,ChEMBL:CHEMBL3712957,False
+IGF2,,XENTUZUMAB,CHEMBL4297850,Antibody,2,2,Clinical/Preclinical,Insulin-like growth factor II inhibitor,False,ChEMBL:CHEMBL3712957,False
+IGFALS,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IGSF10,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL15,,ORDESEKIMAB,CHEMBL2109467,Antibody,2,2,Clinical/Preclinical,Interleukin-15 inhibitor,False,ChEMBL:CHEMBL3712954,True
+IL16,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL17RE,,BRODALUMAB,CHEMBL1742996,Antibody,4,4,Approved,Interleukin-17 receptor A antagonist,False,ChEMBL:CHEMBL3580485,False
+IL18,,GSK-1070806,CHEMBL2109606,Unknown,2,2,Clinical/Preclinical,Interleukin-18 inhibitor,False,ChEMBL:CHEMBL1741305,False
+IL18,,CAMOTESKIMAB,CHEMBL2109604,Antibody,2,2,Clinical/Preclinical,Interleukin-18 cross-linking agent,False,ChEMBL:CHEMBL1741305,False
+IL18,,TADEKINIG ALFA,CHEMBL2108054,Unknown,3,3,Clinical/Preclinical,Interleukin-18 inhibitor,False,ChEMBL:CHEMBL1741305,False
+IL1R1,,ANAKINRA,CHEMBL1201570,Protein,4,4,Approved,Interleukin-1 receptor antagonist,False,ChEMBL:CHEMBL1959,True
+IL1R1,,AMG-108,CHEMBL2109458,Unknown,2,2,Clinical/Preclinical,Interleukin-1 receptor antagonist,False,ChEMBL:CHEMBL1959,True
+IL1R1,,MEDI-8968,CHEMBL2109607,Unknown,2,2,Clinical/Preclinical,Interleukin-1 receptor inhibitor,False,ChEMBL:CHEMBL1959,True
+IL1R2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL1RAP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL32,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL4I1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL4R,,DUPILUMAB,CHEMBL2108675,Antibody,4,4,Approved,Interleukin-4 receptor subunit alpha antagonist,False,ChEMBL:CHEMBL3580490,False
+IL6,,SILTUXIMAB,CHEMBL1743070,Antibody,4,4,Approved,Interleukin-6 antagonist,False,ChEMBL:CHEMBL1795129,True
+IL6,,SIRUKUMAB,CHEMBL1743071,Antibody,3,3,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,OLOKIZUMAB,CHEMBL1743050,Antibody,3,3,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,CLAZAKIZUMAB,CHEMBL2108589,Antibody,3,3,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,ELSILIMOMAB,CHEMBL2108591,Antibody,2,2,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,PACIBEKITUG,CHEMBL6068160,Antibody,2,2,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,MRA 003 US,CHEMBL2109615,Unknown,1,1,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,ZILTIVEKIMAB,CHEMBL4297732,Antibody,3,3,Clinical/Preclinical,Interleukin-6 inhibitor,False,ChEMBL:CHEMBL1795129,True
+IL6,,ZILTIVEKIMAB,CHEMBL4297732,Antibody,3,3,Clinical/Preclinical,Interleukin-6 binding agent,False,ChEMBL:CHEMBL1795129,True
+IL6ST,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IL7,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+INSL3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ITIH2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ITIH4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ITLN1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+IZUMO4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+JAM3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+KIAA0319,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+KIRREL3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+KLKB1,,ECALLANTIDE,CHEMBL1201837,Protein,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False
+KLKB1,,APROTININ,CHEMBL1201619,Unknown,4,4,Approved,Plasma kallikrein inhibitor,True,ChEMBL:CHEMBL2000,False
+KLKB1,,LANADELUMAB,CHEMBL3545189,Antibody,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False
+KLKB1,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False
+KLKB1,,BEROTRALSTAT HYDROCHLORIDE,CHEMBL6067995,Small molecule,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False
+KLKB1,,AVORALSTAT,CHEMBL4297502,Small molecule,3,3,Clinical/Preclinical,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False
+KRT10,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LAD1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LAG3,,IERAMILIMAB,CHEMBL4298009,Antibody,2,2,Clinical/Preclinical,Lymphocyte activation gene 3 protein inhibitor,False,ChEMBL:CHEMBL4630881,False
+LAG3,,RELATLIMAB,CHEMBL3990044,Antibody,4,4,Approved,Lymphocyte activation gene 3 protein inhibitor,False,ChEMBL:CHEMBL4630881,False
+LAG3,,FIANLIMAB,CHEMBL4298085,Antibody,3,3,Clinical/Preclinical,Lymphocyte activation gene 3 protein inhibitor,False,ChEMBL:CHEMBL4630881,False
+LAG3,,FAVEZELIMAB,CHEMBL4297784,Antibody,3,3,Clinical/Preclinical,Lymphocyte activation gene 3 protein inhibitor,False,ChEMBL:CHEMBL4630881,False
+LAG3,,TEBOTELIMAB,CHEMBL4594578,Antibody,2,2,Clinical/Preclinical,Lymphocyte activation gene 3 protein inhibitor,False,ChEMBL:CHEMBL4630881,False
+LAG3,,EFTILAGIMOD ALFA,CHEMBL4594557,Unknown,2,2,Clinical/Preclinical,Lymphocyte activation gene 3 protein vaccine antigen,False,ChEMBL:CHEMBL4630881,False
+LAMA2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LAMA5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LAMB3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LAMC3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LCN2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LEFTY1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LGALS1,,DAVANAT,CHEMBL4297960,Unknown,2,2,Clinical/Preclinical,Galectin-1 inhibitor,False,ChEMBL:CHEMBL4915,False
+LGALS3BP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LIPC,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LNPEP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LOX,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+LOXL2,,SIMTUZUMAB,CHEMBL2109667,Antibody,2,2,Clinical/Preclinical,Lysyl oxidase homolog 2 inhibitor,False,ChEMBL:CHEMBL3714029,True
+LOXL2,,LENUMLOSTAT,CHEMBL4116649,Small molecule,2,2,Clinical/Preclinical,Lysyl oxidase homolog 2 inhibitor,False,ChEMBL:CHEMBL3714029,True
+LOXL4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LPL,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LRG1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LRP1,,ANG1005,CHEMBL1089636,Protein,3,3,Clinical/Preclinical,Prolow-density lipoprotein receptor-related protein 1 binding agent,False,ChEMBL:CHEMBL4630884,False
+LTBP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LY96,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+LYG1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MAN2B2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MAPT,,TILAVONEMAB,CHEMBL4297860,Antibody,2,2,Clinical/Preclinical,Microtubule-associated protein tau inhibitor,False,ChEMBL:CHEMBL1293224,False
+MAPT,,SEMORINEMAB,CHEMBL4298093,Antibody,2,2,Clinical/Preclinical,Microtubule-associated protein tau inhibitor,False,ChEMBL:CHEMBL1293224,False
+MAPT,,GOSURANEMAB,CHEMBL3990042,Antibody,2,2,Clinical/Preclinical,Microtubule-associated protein tau inhibitor,False,ChEMBL:CHEMBL1293224,False
+MAPT,,ZAGOTENEMAB,CHEMBL4298021,Antibody,2,2,Clinical/Preclinical,Microtubule-associated protein tau inhibitor,False,ChEMBL:CHEMBL1293224,False
+MAPT,,POSDINEMAB,CHEMBL4650402,Antibody,2,2,Clinical/Preclinical,Microtubule-associated protein tau inhibitor,False,ChEMBL:CHEMBL1293224,False
+MAPT,,BEPRANEMAB,CHEMBL4594612,Antibody,2,2,Clinical/Preclinical,Microtubule-associated protein tau inhibitor,False,ChEMBL:CHEMBL1293224,False
+MASP2,,NARSOPLIMAB,CHEMBL4298195,Antibody,3,3,Clinical/Preclinical,Mannan-binding lectin serine protease 2 inhibitor,False,ChEMBL:CHEMBL4295646,False
+MBTPS1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+METRN,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+METRNL,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MFGE8,,BRE-3 90Y,CHEMBL2109363,Unknown,1,1,Clinical/Preclinical,Lactadherin binding agent,False,ChEMBL:CHEMBL3713343,False
+MGAT4A,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MGP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MME,,MARIMASTAT,CHEMBL279785,Small molecule,3,3,Clinical/Preclinical,Matrix metalloproteinase 12 inhibitor,False,ChEMBL:CHEMBL4393,False
+MME,,AZD-1236,CHEMBL4297352,Small molecule,2,2,Clinical/Preclinical,Matrix metalloproteinase 12 inhibitor,False,ChEMBL:CHEMBL4393,False
+MME,,CTS-1027,CHEMBL440498,Small molecule,2,2,Clinical/Preclinical,Matrix metalloproteinase 12 inhibitor,False,ChEMBL:CHEMBL4393,False
+MMP11,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MMP15,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MMP17,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MMP19,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MMP23B,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MMP24,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MMP28,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MST1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+MUC1,,PEMTUMOMAB,CHEMBL2109361,Antibody,3,3,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,HUHMFG1,CHEMBL2109637,Unknown,2,2,Clinical/Preclinical,Mucin-1 other,False,ChEMBL:CHEMBL3580494,False
+MUC1,,SONTUZUMAB,CHEMBL2108341,Antibody,2,2,Clinical/Preclinical,Mucin-1 other,False,ChEMBL:CHEMBL3580494,False
+MUC1,,CANTUZUMAB MERTANSINE,CHEMBL1742997,Antibody drug conjugate,2,2,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,CANTUZUMAB RAVTANSINE,CHEMBL1742998,Antibody drug conjugate,2,2,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,AR-20.5,CHEMBL2109364,Unknown,2,2,Clinical/Preclinical,Mucin-1 other,False,ChEMBL:CHEMBL3580494,False
+MUC1,,SAR-566658,CHEMBL2109635,Unknown,2,2,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,HUPAM4,CHEMBL2109365,Unknown,1,1,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,EPITUMOMAB CITUXETAN,CHEMBL2108592,Antibody,2,2,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,EPITUMOMAB,CHEMBL2108403,Antibody,2,2,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,CMB-401,CHEMBL2109284,Unknown,1,1,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,AS-1403,CHEMBL2109360,Unknown,1,1,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,TECEMOTIDE,CHEMBL3039544,Protein,3,3,Clinical/Preclinical,Mucin-1 vaccine antigen,False,ChEMBL:CHEMBL3580494,False
+MUC1,,GATIPOTUZUMAB,CHEMBL4297560,Antibody,2,2,Clinical/Preclinical,Mucin-1 inhibitor,False,ChEMBL:CHEMBL3580494,False
+MUC1,,M170,CHEMBL2109523,Unknown,1,1,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC1,,NACOLOMAB TAFENATOX,CHEMBL2108151,Antibody drug conjugate,2,2,Clinical/Preclinical,Mucin-1 binding agent,False,ChEMBL:CHEMBL3580494,False
+MUC4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NAMPT,,TEGLARINAD CHLORIDE,CHEMBL190412,Small molecule,2,2,Clinical/Preclinical,Nicotinamide phosphoribosyltransferase inhibitor,False,ChEMBL:CHEMBL1744525,False
+NAMPT,,DAPORINAD,CHEMBL566757,Small molecule,2,2,Clinical/Preclinical,Nicotinamide phosphoribosyltransferase inhibitor,False,ChEMBL:CHEMBL1744525,False
+NCAM1,,ONCOLYSIN S,CHEMBL2109634,Unknown,2,2,Clinical/Preclinical,Neural cell adhesion molecule 1 binding agent,False,ChEMBL:CHEMBL3712938,False
+NCAM1,,LORVOTUZUMAB MERTANSINE,CHEMBL1743037,Antibody drug conjugate,2,2,Clinical/Preclinical,Neural cell adhesion molecule 1 binding agent,False,ChEMBL:CHEMBL3712938,False
+NCAM1,,LORVOTUZUMAB MERTANSINE,CHEMBL1743037,Antibody drug conjugate,2,2,Clinical/Preclinical,Neural cell adhesion molecule 1 binding agent,False,ChEMBL:CHEMBL3712938,False
+NDFIP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NELL2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NENF,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NHLRC3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NID1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NID2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NMI,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NOG,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NPPA,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NPTX2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NRCAM,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NRG1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NRP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NSUN2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+NTNG1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+OLFM4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+OLFML2A,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+OLFML2B,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+OSCAR,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+OVGP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PAM,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PCOLCE2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PCSK5,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PCSK6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PDCD1LG2,,RHIGM12B7,CHEMBL2109309,Unknown,1,1,Clinical/Preclinical,Programmed cell death 1 ligand 2 cross-linking agent,False,ChEMBL:CHEMBL3713006,False
+PDGFA,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+PDGFB,,PEGPLERANIB SODIUM,CHEMBL3301576,Unknown,3,3,Clinical/Preclinical,Platelet-derived growth factor subunit B inhibitor,False,ChEMBL:CHEMBL3108633,True
+PDGFD,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PDZD2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PDZD3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PF4V1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PGF,,AFLIBERCEPT,CHEMBL1742982,Protein,4,4,Approved,Placenta growth factor inhibitor,False,ChEMBL:CHEMBL1697671,False
+PGF,,CONBERCEPT,CHEMBL2108313,Protein,3,3,Clinical/Preclinical,Placenta growth factor inhibitor,False,ChEMBL:CHEMBL1697671,False
+PGF,,TB-403,CHEMBL2109545,Unknown,2,2,Clinical/Preclinical,Placenta growth factor inhibitor,False,ChEMBL:CHEMBL1697671,False
+PI3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PILRA,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PINLYP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PKD1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PKD2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PKDCC,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PLAC9,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PLAT,,TENECTEPLASE,CHEMBL2108791,Enzyme,4,4,Approved,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLAT,,RETEPLASE,CHEMBL2107885,Enzyme,4,4,Approved,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLAT,,ALTEPLASE,CHEMBL1201593,Enzyme,4,4,Approved,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLAT,,AMINOCAPROIC ACID,CHEMBL1046,Small molecule,4,4,Approved,Tissue-type plasminogen activator inhibitor,False,ChEMBL:CHEMBL1873,False
+PLAT,,DUTEPLASE,CHEMBL2108375,Enzyme,2,2,Clinical/Preclinical,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLAT,,MONTEPLASE,CHEMBL2108426,Enzyme,3,3,Clinical/Preclinical,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLAT,,LANOTEPLASE,CHEMBL2108499,Enzyme,2,2,Clinical/Preclinical,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLAT,,PAMITEPLASE,CHEMBL2108072,Enzyme,2,2,Clinical/Preclinical,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False
+PLXDC1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PLXNA2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PLXNB1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PMEL,,IMC-GP100,CHEMBL2109434,Unknown,-1,-1,Clinical/Preclinical,Melanocyte protein PMEL cross-linking agent,False,ChEMBL:CHEMBL3712988,False
+PMEL,,TEBENTAFUSP,CHEMBL4297990,Protein,4,4,Approved,Melanocyte protein PMEL binding agent,False,ChEMBL:CHEMBL3712988,False
+PODN,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+POMC,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PPIA,,CYCLOSPORINE,CHEMBL160,Protein,4,4,Approved,Cyclophilin A modulator,False,ChEMBL:CHEMBL1949,False
+PPIA,,ALISPORIVIR,CHEMBL1651956,Protein,3,3,Clinical/Preclinical,Cyclophilin A inhibitor,False,ChEMBL:CHEMBL1949,False
+PPIA,,SCY 635,CHEMBL1269597,Protein,2,2,Clinical/Preclinical,Cyclophilin A inhibitor,False,ChEMBL:CHEMBL1949,False
+PRADC1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRF1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PROC,,PROTEIN C CONCENTRATE (HUMAN),CHEMBL5315087,Unknown,4,4,Approved,Vitamin K-dependent protein C exogenous protein,False,ChEMBL:CHEMBL4444,False
+PROC,,PROTHROMBIN COMPLEX CONCENTRATE,CHEMBL6068614,Protein,3,3,Clinical/Preclinical,Vitamin K-dependent protein C exogenous protein,False,ChEMBL:CHEMBL4444,False
+PROK2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRSS23,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRSS3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRSS35,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRSS36,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRSS51,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PRSS53,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PSAP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PTCH1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PTPRJ,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+PTX3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+QPCT,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+RARRES2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+RNASE1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+RNF43,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+RNLS,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+RSPRY1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+S100A9,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SCGB3A1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SCPEP1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SDC4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SDCBP,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SEMA3C,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SEMA4D,,PEPINEMAB,CHEMBL4297884,Antibody,2,2,Clinical/Preclinical,Semaphorin-4D inhibitor,False,ChEMBL:CHEMBL4630887,False
+SERPINE2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SERPINF1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SERPING1,,CONESTAT ALFA,CHEMBL2108350,Protein,4,4,Approved,Plasma protease C1 inhibitor exogenous protein,False,ChEMBL:CHEMBL5305024,False
+SFTPD,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SLPI,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SMPDL3A,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SNCA,,CINPANEMAB,CHEMBL3833330,Antibody,2,2,Clinical/Preclinical,Alpha-synuclein inhibitor,False,ChEMBL:CHEMBL6152,False
+SNCA,,PRASINEZUMAB,CHEMBL4298077,Antibody,2,2,Clinical/Preclinical,Alpha-synuclein binding agent,False,ChEMBL:CHEMBL6152,False
+SNED1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SNX25,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SORD,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPARC,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPATA20,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPATA6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPINT1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPNS2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPON1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPON2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SPP1,,ASK-8007,CHEMBL2109530,Unknown,2,2,Clinical/Preclinical,Osteopontin inhibitor,False,ChEMBL:CHEMBL1741309,False
+SRP68,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ST3GAL4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ST6GAL1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ST8SIA4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+SULF2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TAC4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TECTA,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TEK,,REGORAFENIB,CHEMBL1946170,Small molecule,4,4,Approved,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,VANDETANIB,CHEMBL24828,Small molecule,4,4,Approved,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,PEXMETINIB,CHEMBL3991932,Small molecule,2,2,Clinical/Preclinical,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,CE-245677,CHEMBL3910075,Small molecule,1,1,Clinical/Preclinical,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,CEP-11981,CHEMBL2010872,Small molecule,2,2,Clinical/Preclinical,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,ALTIRATINIB,CHEMBL3545365,Small molecule,2,2,Clinical/Preclinical,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,FORETINIB,CHEMBL1230609,Small molecule,2,2,Clinical/Preclinical,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TEK,,GLESATINIB,CHEMBL3989914,Small molecule,2,2,Clinical/Preclinical,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True
+TF,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TFF3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TFPI,,ANDEXANET ALFA,CHEMBL3301583,Protein,4,4,Approved,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False
+TFPI,,MARSTACIMAB,CHEMBL3990039,Antibody,4,4,Approved,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False
+TFPI,,CONCIZUMAB,CHEMBL4297730,Antibody,4,4,Approved,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False
+TFPI,,BAY-1093884,CHEMBL4297904,Unknown,2,2,Clinical/Preclinical,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False
+TFRC,,A27.15,CHEMBL2109494,Unknown,1,1,Clinical/Preclinical,Transferrin receptor protein 1 antagonist,False,ChEMBL:CHEMBL3712860,False
+TGFA,,FEPIXNEBART,CHEMBL4594573,Antibody,2,2,Clinical/Preclinical,Protransforming growth factor alpha inhibitor,False,ChEMBL:CHEMBL4662938,False
+TGFB2,,LERDELIMUMAB,CHEMBL2108967,Antibody,3,3,Clinical/Preclinical,Transforming growth factor beta-2 inhibitor,False,ChEMBL:CHEMBL3217393,False
+TGFB2,,FRESOLIMUMAB,CHEMBL1743022,Antibody,2,2,Clinical/Preclinical,Transforming growth factor beta-2 inhibitor,False,ChEMBL:CHEMBL3217393,False
+TGFB3,,FRESOLIMUMAB,CHEMBL1743022,Antibody,2,2,Clinical/Preclinical,Transforming growth factor beta-3 inhibitor,False,ChEMBL:CHEMBL3712903,False
+TGFBI,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+TGFBR2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+TGFBR3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+THBS1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+THBS4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+THEM6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+THNSL2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TIMD4,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TIMP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),True
+TIMP3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TMEM119,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TMEM98,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TMPRSS13,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TNFAIP6,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TNFRSF18,,TRX-518,CHEMBL2109428,Unknown,1,1,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 18 agonist,False,ChEMBL:CHEMBL3712995,False
+TNFRSF18,,RAGIFILIMAB,CHEMBL4594558,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor receptor superfamily member 18 agonist,False,ChEMBL:CHEMBL3712995,False
+TNFRSF1A,,GSK-1995057,CHEMBL2109590,Unknown,1,1,Clinical/Preclinical,Tumor necrosis factor receptor R1 inhibitor,False,ChEMBL:CHEMBL3378,False
+TNFSF13,,ATACICEPT,CHEMBL1742986,Protein,3,3,Clinical/Preclinical,Tumor necrosis factor ligand superfamily member 13 inhibitor,False,ChEMBL:CHEMBL3713436,False
+TNFSF13,,SIBEPRENLIMAB,CHEMBL4594614,Antibody,2,2,Clinical/Preclinical,Tumor necrosis factor ligand superfamily member 13 inhibitor,False,ChEMBL:CHEMBL3713436,False
+TREM1,,NANGIBOTIDE,CHEMBL4297793,Protein,2,2,Clinical/Preclinical,Triggering receptor expressed on myeloid cells 1 inhibitor,False,ChEMBL:CHEMBL1697674,False
+TUFT1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TULP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+TXN,,PX-12,CHEMBL406050,Small molecule,2,2,Clinical/Preclinical,Thioredoxin inhibitor,False,ChEMBL:CHEMBL2010624,False
+TXNDC16,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ULBP2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+VASH2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+VCAM1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+VEGFA,,PEGAPTANIB SODIUM,CHEMBL1201421,Small molecule,4,4,Approved,Vascular endothelial growth factor A antagonist,False,ChEMBL:CHEMBL1783,True
+VEGFA,,RANIBIZUMAB,CHEMBL1201825,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,AFLIBERCEPT,CHEMBL1742982,Protein,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,BEVACIZUMAB,CHEMBL1201583,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,BEVACIZUMAB 111IN,CHEMBL3707253,Antibody,-1,-1,Clinical/Preclinical,Vascular endothelial growth factor A binding agent,False,ChEMBL:CHEMBL1783,True
+VEGFA,,MUPARFOSTAT,CHEMBL4297163,Unknown,3,3,Clinical/Preclinical,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,CONBERCEPT,CHEMBL2108313,Protein,3,3,Clinical/Preclinical,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,BROLUCIZUMAB,CHEMBL3707357,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,VANUCIZUMAB,CHEMBL3545259,Antibody,2,2,Clinical/Preclinical,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,FARICIMAB,CHEMBL4297750,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,ABICIPAR PEGOL,CHEMBL4297684,Protein,3,3,Clinical/Preclinical,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,PEGAPTANIB OCTASODIUM,CHEMBL2108752,Unknown,3,3,Clinical/Preclinical,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True
+VEGFA,,BEVACIZUMAB GAMMA,CHEMBL5314727,Antibody,4,4,Approved,Vascular endothelial growth factor A binding agent,False,ChEMBL:CHEMBL1783,True
+VMO1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+VNN2,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+VWF,,CAPLACIZUMAB,CHEMBL2109624,Antibody,4,4,Approved,von Willebrand factor inhibitor,False,ChEMBL:CHEMBL2021748,False
+VWF,,EGAPTIVON PEGOL,CHEMBL2108339,Unknown,2,2,Clinical/Preclinical,von Willebrand factor inhibitor,False,ChEMBL:CHEMBL2021748,False
+VWF,,VONICOG ALFA,CHEMBL2107873,Protein,4,4,Approved,von Willebrand factor exogenous protein,False,ChEMBL:CHEMBL2021748,False
+VWF,,VON WILLEBRAND FACTOR HUMAN,CHEMBL4298126,Unknown,4,4,Approved,von Willebrand factor exogenous protein,False,ChEMBL:CHEMBL2021748,False
+VWF,,VON WILLEBRAND FACTOR HUMAN,CHEMBL4298126,Unknown,4,4,Approved,von Willebrand factor exogenous protein,False,ChEMBL:CHEMBL2021748,False
+WFDC3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+WFIKKN1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+WNT10B,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+WNT11,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+WNT3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+XCL1,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ZBED3,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False
+ZG16B,,,,,,,no known drug,,False,OpenTargets/ChEMBL query (no hits),False

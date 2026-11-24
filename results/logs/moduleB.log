@@ -1,0 +1,24 @@
+[04:56:21] state-associated DEGs (injury-relevant lineages): 6859 genes across 2 datasets
+[04:56:24] HPA predicted secretome: 586 genes (source: proteinatlas.org API)
+[04:56:28] UniProt reviewed human 'Secreted' proteins: 2136 genes (source: UniProt REST)
+[04:56:28] eQTLGen measured genes (cached): 16923
+[04:56:28] FILTER FUNNEL: state genes 6859 -> secretome 604 -> +eQTLGen instruments 394
+[04:56:28] panel -> D:\Journal and Translational Medicine\results\tables\B1_secreted_candidate_panel.csv
+[04:56:28] top 15 candidates:
+ rank     gene  n_datasets  mean_log2fc  in_HPA_secretome  in_UniProt_secreted  in_eQTLGen  secreted_consensus
+    1      C1R           2     2.946249             False                 True        True                True
+    2      ADM           2     2.698133             False                 True        True                True
+    3    CXCL1           2     2.508106              True                 True        True                True
+    4 SERPINF1           2     2.373379              True                 True        True                True
+    5      CFH           2     2.040583              True                 True        True                True
+    6    FBLN1           2     1.925869              True                 True        True                True
+    7       C2           2     1.792190             False                 True        True                True
+    8     IL32           2     1.688837             False                 True        True                True
+    9     CCL2           2     1.557381              True                 True        True                True
+   10    VEGFA           2     1.543937             False                 True        True                True
+   11    THBS1           2     1.525276             False                 True        True                True
+   12    FBLN5           2     1.328202              True                 True        True                True
+   13      GPI           2     1.215305              True                 True        True                True
+   14      MIF           2     1.204394             False                 True        True                True
+   15  C1orf54           2     1.184302             False                 True        True                True
+EXIT=0

@@ -1,0 +1,36 @@
+[04:49:46] Module A start | dataset=GSE209781 | contrast=DKD vs normal
+[04:50:11]   NM01: 6794880 barcodes -> 8006 cells after per-sample QC
+[04:50:11]   NM01 (normal): 8006 cells x 36601 genes
+[04:50:34]   NM02: 6794880 barcodes -> 10528 cells after per-sample QC
+[04:50:34]   NM02 (normal): 10528 cells x 36601 genes
+[04:51:00]   NM03: 6794880 barcodes -> 4052 cells after per-sample QC
+[04:51:00]   NM03 (normal): 4052 cells x 36601 genes
+[04:51:27]   DKD01: 6794880 barcodes -> 3756 cells after per-sample QC
+[04:51:27]   DKD01 (DKD): 3756 cells x 36601 genes
+[04:51:52]   DKD02: 6794880 barcodes -> 9132 cells after per-sample QC
+[04:51:52]   DKD02 (DKD): 9132 cells x 36601 genes
+[04:52:13]   DKD03: 6794880 barcodes -> 5105 cells after per-sample QC
+[04:52:13]   DKD03 (DKD): 5105 cells x 36601 genes
+[04:52:14] loaded 40579 cells x 36601 genes
+[04:52:17] QC filter: 40579 -> 40579 cells
+<user-home>\.workbuddy\binaries\python\versions\3.13.12\Lib\functools.py:934: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\preprocessing\_combat.py:349: RuntimeWarning: divide by zero encountered in divide
+  (abs(g_new - g_old) / g_old).max(), (abs(d_new - d_old) / d_old).max()
+[04:52:55] batch correction: ComBat
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:609: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "scores"] = scores[global_indices]
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:612: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "pvals"] = pvals[global_indices]
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:622: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "pvals_adj"] = pvals_adj[global_indices]
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:633: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "logfoldchanges"] = np.log2(
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\tools\_rank_genes_groups.py:607: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  self.stats[group_name, "names"] = self.var_names[global_indices]
+[04:55:43]   state panel injury: 8/8 genes present
+[04:55:43]   state panel maladaptive_repair: 8/8 genes present
+[04:55:44]   state panel fibroblast_activation: 8/8 genes present
+[04:55:49] Module A done for GSE209781: cells=40579, lineages=15, clusters=31
+[04:55:49] outputs -> D:\Journal and Translational Medicine\data\processed | D:\Journal and Translational Medicine\results\tables | D:\Journal and Translational Medicine\results\figures
+EXIT=0

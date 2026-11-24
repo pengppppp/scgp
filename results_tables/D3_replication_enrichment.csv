@@ -1,0 +1,6 @@
+metric,value
+genes_tested,371.0
+genes_nominal_ge2_endpoints,41.0
+empirical_P_ge2,0.07182143642872857
+expected_ge2_by_chance,26.6457529150583
+binom_p_greater,0.004293415807483368

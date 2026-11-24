@@ -1,0 +1,48 @@
+[08:26:10] === D8 panel-wide cis-pQTL MR ===
+[08:27:01] ADAM12: 2 LD-clumped instruments (from 338 significant)
+[08:27:53] C2: 41 LD-clumped instruments (from 43331 significant)
+[08:28:44] CD14: 17 LD-clumped instruments (from 3419 significant)
+[08:29:35] CD40: 21 LD-clumped instruments (from 14574 significant)
+[08:30:27] CD55: 20 LD-clumped instruments (from 4542 significant)
+[08:31:18] CREG1: 43 LD-clumped instruments (from 6022 significant)
+[08:32:09] EMID1: 6 LD-clumped instruments (from 5972 significant)
+[08:33:00] EPDR1: 4 LD-clumped instruments (from 418 significant)
+[08:33:50] FAM20A: 25 LD-clumped instruments (from 2917 significant)
+[08:34:41] FOLR3: 38 LD-clumped instruments (from 15045 significant)
+[08:35:32] FSTL4: 1 LD-clumped instruments (from 385 significant)
+[08:36:22] GALNT1: 13 LD-clumped instruments (from 3223 significant)
+[08:37:10] GDF11: 1 LD-clumped instruments (from 1 significant)
+[08:38:01] GREM2: 25 LD-clumped instruments (from 2380 significant)
+[08:38:52] ITIH4: 29 LD-clumped instruments (from 4140 significant)
+[08:39:44] NID2: 30 LD-clumped instruments (from 8810 significant)
+[08:40:35] NPPA: 9 LD-clumped instruments (from 1503 significant)
+[08:41:25] PGF: 3 LD-clumped instruments (from 584 significant)
+[08:42:15] PSAP: 31 LD-clumped instruments (from 6143 significant)
+[08:43:06] PTPRJ: 37 LD-clumped instruments (from 3604 significant)
+[08:43:58] RARRES2: 11 LD-clumped instruments (from 3827 significant)
+[08:44:23]   SNCA: file read error (Compressed file ended before the end-of-stream marker was reached) - possibly truncated
+[08:44:23] SNCA: no local file yet (download pending)
+[08:44:23] SORD: no local file yet (download pending)
+[08:45:13] TGFB3: 9 LD-clumped instruments (from 1100 significant)
+[08:46:04] TNFRSF1A: 24 LD-clumped instruments (from 2433 significant)
+[08:46:54] TUFT1: 4 LD-clumped instruments (from 58 significant)
+[08:46:54] total instruments: 444 across 24 genes
+[08:46:54] harmonising against FinnGen R12 (6 endpoints)...
+[08:47:12]   N14_CHRONKIDNEYDIS: 186 instrument rows
+[08:47:31]   N14_RENFAIL: 186 instrument rows
+[08:47:49]   N14_RENALTUB: 186 instrument rows
+[08:48:08]   DM_NEPHROPATHY: 186 instrument rows
+[08:48:27]   N14_IGA_NEPHROPATHY: 186 instrument rows
+[08:48:45]   I9_HYPTENSRD: 186 instrument rows
+[08:48:45] harmonised rows: 1212
+[08:48:46] D8 saved: 138 tests, 23 genes x 6 endpoints
+[08:48:46] nominal: 7 | FDR<0.05: 1
+[08:48:46] genes with >=3 instruments (MR battery computable): 18
+  gene            endpoint  n_instruments  ivw_beta    ivw_p   bh_fdr
+    C2 N14_IGA_NEPHROPATHY             18 -0.069064 0.034484 0.679822
+  CD14        I9_HYPTENSRD              9 -0.539070 0.000073 0.010118
+ CREG1      DM_NEPHROPATHY             12  0.111267 0.018907 0.537459
+ EPDR1 N14_IGA_NEPHROPATHY              2  1.586463 0.012382 0.537459
+FAM20A N14_IGA_NEPHROPATHY             16 -0.553151 0.010906 0.537459
+ FOLR3 N14_IGA_NEPHROPATHY              9  0.160076 0.021891 0.537459
+  NID2         N14_RENFAIL              6 -0.176883 0.023368 0.537459

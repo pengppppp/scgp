@@ -1,0 +1,96 @@
+gene,ensembl_id,drug,drug_chembl_id,drug_type,max_phase,trial_phase,status,moa,withdrawn,source,in_druggable_genome,therapeutic
+A2M,,TECHNETIUM TC 99M SUCCIMER,CHEMBL1200797,Small molecule,4,4,Approved,Alpha-2-macroglobulin binding agent,False,ChEMBL:CHEMBL4295690,False,False
+ACE,,QUINAPRIL HYDROCHLORIDE,CHEMBL1201011,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,TRANDOLAPRIL,CHEMBL1519,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,MOEXIPRIL HYDROCHLORIDE,CHEMBL1200534,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,ENALAPRILAT,CHEMBL3989406,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,RAMIPRIL,CHEMBL1168,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,FOSINOPRIL SODIUM,CHEMBL3039596,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,BENAZEPRIL HYDROCHLORIDE,CHEMBL1694,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,CAPTOPRIL,CHEMBL1560,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,PERINDOPRIL ERBUMINE,CHEMBL1200343,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,LISINOPRIL,CHEMBL419213,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,ENALAPRIL MALEATE,CHEMBL1200659,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,SPIRAPRIL HYDROCHLORIDE,CHEMBL1200831,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,PERINDOPRIL ARGININE,CHEMBL3544986,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,CILAZAPRIL,CHEMBL515606,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ACE,,IMIDAPRIL,CHEMBL317094,Small molecule,4,4,Approved,Angiotensin-converting enzyme inhibitor,False,ChEMBL:CHEMBL1808,True,True
+ADAMTS13,,APADAMTASE ALFA,CHEMBL4594607,Enzyme,4,4,Approved,A disintegrin and metalloproteinase with thrombospondin motifs 13 exogenous protein,False,ChEMBL:CHEMBL2346492,False,True
+APP,,ADUCANUMAB,CHEMBL3039540,Antibody,4,4,Approved,Amyloid-beta A4 protein binding agent,False,ChEMBL:CHEMBL2487,True,True
+APP,,LECANEMAB,CHEMBL3833321,Antibody,4,4,Approved,Amyloid-beta A4 protein inhibitor,False,ChEMBL:CHEMBL2487,True,True
+APP,,DONANEMAB,CHEMBL4297245,Antibody,4,4,Approved,Amyloid-beta A4 protein disrupting agent,False,ChEMBL:CHEMBL2487,True,True
+C1S,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Complement C1s inhibitor,False,ChEMBL:CHEMBL3913,False,True
+C1S,,SUTIMLIMAB,CHEMBL4297832,Antibody,4,4,Approved,Complement C1s inhibitor,False,ChEMBL:CHEMBL3913,False,True
+CSF3R,,FILGRASTIM,CHEMBL1201567,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False,True
+CSF3R,,PEGFILGRASTIM,CHEMBL1201568,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False,True
+CSF3R,,LIPEGFILGRASTIM,CHEMBL4594230,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False,True
+CSF3R,,LENOGRASTIM,CHEMBL2109128,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False,True
+CSF3R,,EFLAPEGRASTIM,CHEMBL3833384,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False,True
+CSF3R,,EFBEMALENOGRASTIM ALFA,CHEMBL4297950,Protein,4,4,Approved,Granulocyte colony stimulating factor receptor agonist,False,ChEMBL:CHEMBL1996,False,True
+DPP4,,ALOGLIPTIN BENZOATE,CHEMBL227529,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,SITAGLIPTIN PHOSPHATE,CHEMBL1201174,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,LINAGLIPTIN,CHEMBL237500,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,SAXAGLIPTIN HYDROCHLORIDE,CHEMBL1201743,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,GOSOGLIPTIN,CHEMBL515387,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,TRELAGLIPTIN SUCCINATE,CHEMBL2105754,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,OMARIGLIPTIN,CHEMBL2105762,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,VILDAGLIPTIN,CHEMBL142703,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,TENELIGLIPTIN,CHEMBL2147777,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,ANAGLIPTIN,CHEMBL1929396,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,EVOGLIPTIN,CHEMBL1779710,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,SITAGLIPTIN FUMARATE,CHEMBL5315049,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+DPP4,,SITAGLIPTIN HYDROCHLORIDE MONOHYDRATE,CHEMBL6068334,Small molecule,4,4,Approved,Dipeptidyl peptidase IV inhibitor,False,ChEMBL:CHEMBL284,True,True
+F10,,APIXABAN,CHEMBL231779,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True,True
+F10,,RIVAROXABAN,CHEMBL198362,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True,True
+F10,,EDOXABAN TOSYLATE,CHEMBL2105682,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True,True
+F10,,BETRIXABAN,CHEMBL512351,Small molecule,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True,True
+F10,,ANTITHROMBIN ALFA,CHEMBL1201554,Protein,4,4,Approved,Coagulation factor X inhibitor,False,ChEMBL:CHEMBL244,True,True
+F10,,COAGULATION FACTOR X HUMAN,CHEMBL4297951,Unknown,4,4,Approved,Coagulation factor X exogenous protein,False,ChEMBL:CHEMBL244,True,False
+F12,,BISMUTH SUBGALLATE,CHEMBL1592101,Small molecule,4,4,Approved,Coagulation factor XII activator,True,ChEMBL:CHEMBL2821,False,False
+F12,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Coagulation factor XII inhibitor,False,ChEMBL:CHEMBL2821,False,True
+FLT1,,SUNITINIB,CHEMBL535,Small molecule,4,4,Approved,Vascular endothelial growth factor receptor 1 inhibitor,False,ChEMBL:CHEMBL1868,False,True
+FN1,,BISMUTH SUBGALLATE,CHEMBL1592101,Small molecule,4,4,Approved,Coagulation factor XII activator,True,ChEMBL:CHEMBL2821,True,False
+FN1,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Coagulation factor XII inhibitor,False,ChEMBL:CHEMBL2821,True,True
+HGF,,CABOZANTINIB S-MALATE,CHEMBL2103868,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+HGF,,CRIZOTINIB,CHEMBL601719,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+HGF,,TEPOTINIB,CHEMBL3402762,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+HGF,,CAPMATINIB,CHEMBL3188267,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+HGF,,BEPERMINOGENE PERPLASMID,CHEMBL2108332,Gene,4,4,Approved,Hepatocyte growth factor receptor agonist,False,ChEMBL:CHEMBL3717,False,False
+HGF,,CAPMATINIB HYDROCHLORIDE,CHEMBL3989937,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+HGF,,TEPOTINIB HYDROCHLORIDE,CHEMBL4594292,Small molecule,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+HGF,,AMIVANTAMAB,CHEMBL4297774,Antibody,4,4,Approved,Hepatocyte growth factor receptor inhibitor,False,ChEMBL:CHEMBL3717,False,True
+IL17RE,,BRODALUMAB,CHEMBL1742996,Antibody,4,4,Approved,Interleukin-17 receptor A antagonist,False,ChEMBL:CHEMBL3580485,False,True
+IL1R1,,ANAKINRA,CHEMBL1201570,Protein,4,4,Approved,Interleukin-1 receptor antagonist,False,ChEMBL:CHEMBL1959,True,True
+IL4R,,DUPILUMAB,CHEMBL2108675,Antibody,4,4,Approved,Interleukin-4 receptor subunit alpha antagonist,False,ChEMBL:CHEMBL3580490,False,True
+IL6,,SILTUXIMAB,CHEMBL1743070,Antibody,4,4,Approved,Interleukin-6 antagonist,False,ChEMBL:CHEMBL1795129,True,True
+KLKB1,,ECALLANTIDE,CHEMBL1201837,Protein,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False,True
+KLKB1,,APROTININ,CHEMBL1201619,Unknown,4,4,Approved,Plasma kallikrein inhibitor,True,ChEMBL:CHEMBL2000,False,False
+KLKB1,,LANADELUMAB,CHEMBL3545189,Antibody,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False,True
+KLKB1,,HUMAN C1-ESTERASE INHIBITOR,CHEMBL4297549,Protein,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False,True
+KLKB1,,BEROTRALSTAT HYDROCHLORIDE,CHEMBL6067995,Small molecule,4,4,Approved,Plasma kallikrein inhibitor,False,ChEMBL:CHEMBL2000,False,True
+LAG3,,RELATLIMAB,CHEMBL3990044,Antibody,4,4,Approved,Lymphocyte activation gene 3 protein inhibitor,False,ChEMBL:CHEMBL4630881,False,True
+PGF,,AFLIBERCEPT,CHEMBL1742982,Protein,4,4,Approved,Placenta growth factor inhibitor,False,ChEMBL:CHEMBL1697671,False,True
+PLAT,,TENECTEPLASE,CHEMBL2108791,Enzyme,4,4,Approved,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False,True
+PLAT,,RETEPLASE,CHEMBL2107885,Enzyme,4,4,Approved,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False,True
+PLAT,,ALTEPLASE,CHEMBL1201593,Enzyme,4,4,Approved,Tissue-type plasminogen activator exogenous protein,False,ChEMBL:CHEMBL1873,False,True
+PLAT,,AMINOCAPROIC ACID,CHEMBL1046,Small molecule,4,4,Approved,Tissue-type plasminogen activator inhibitor,False,ChEMBL:CHEMBL1873,False,True
+PMEL,,TEBENTAFUSP,CHEMBL4297990,Protein,4,4,Approved,Melanocyte protein PMEL binding agent,False,ChEMBL:CHEMBL3712988,False,True
+PPIA,,CYCLOSPORINE,CHEMBL160,Protein,4,4,Approved,Cyclophilin A modulator,False,ChEMBL:CHEMBL1949,False,True
+PROC,,PROTEIN C CONCENTRATE (HUMAN),CHEMBL5315087,Unknown,4,4,Approved,Vitamin K-dependent protein C exogenous protein,False,ChEMBL:CHEMBL4444,False,False
+SERPING1,,CONESTAT ALFA,CHEMBL2108350,Protein,4,4,Approved,Plasma protease C1 inhibitor exogenous protein,False,ChEMBL:CHEMBL5305024,False,True
+TEK,,REGORAFENIB,CHEMBL1946170,Small molecule,4,4,Approved,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True,True
+TEK,,VANDETANIB,CHEMBL24828,Small molecule,4,4,Approved,Tyrosine-protein kinase TIE-2 inhibitor,False,ChEMBL:CHEMBL4128,True,True
+TFPI,,ANDEXANET ALFA,CHEMBL3301583,Protein,4,4,Approved,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False,True
+TFPI,,MARSTACIMAB,CHEMBL3990039,Antibody,4,4,Approved,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False,True
+TFPI,,CONCIZUMAB,CHEMBL4297730,Antibody,4,4,Approved,Tissue factor pathway inhibitor inhibitor,False,ChEMBL:CHEMBL3713062,False,True
+VEGFA,,PEGAPTANIB SODIUM,CHEMBL1201421,Small molecule,4,4,Approved,Vascular endothelial growth factor A antagonist,False,ChEMBL:CHEMBL1783,True,True
+VEGFA,,RANIBIZUMAB,CHEMBL1201825,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True,True
+VEGFA,,AFLIBERCEPT,CHEMBL1742982,Protein,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True,True
+VEGFA,,BEVACIZUMAB,CHEMBL1201583,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True,True
+VEGFA,,BROLUCIZUMAB,CHEMBL3707357,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True,True
+VEGFA,,FARICIMAB,CHEMBL4297750,Antibody,4,4,Approved,Vascular endothelial growth factor A inhibitor,False,ChEMBL:CHEMBL1783,True,True
+VEGFA,,BEVACIZUMAB GAMMA,CHEMBL5314727,Antibody,4,4,Approved,Vascular endothelial growth factor A binding agent,False,ChEMBL:CHEMBL1783,True,True
+VWF,,CAPLACIZUMAB,CHEMBL2109624,Antibody,4,4,Approved,von Willebrand factor inhibitor,False,ChEMBL:CHEMBL2021748,False,True
+VWF,,VONICOG ALFA,CHEMBL2107873,Protein,4,4,Approved,von Willebrand factor exogenous protein,False,ChEMBL:CHEMBL2021748,False,True
+VWF,,VON WILLEBRAND FACTOR HUMAN,CHEMBL4298126,Unknown,4,4,Approved,von Willebrand factor exogenous protein,False,ChEMBL:CHEMBL2021748,False,False
+VWF,,VON WILLEBRAND FACTOR HUMAN,CHEMBL4298126,Unknown,4,4,Approved,von Willebrand factor exogenous protein,False,ChEMBL:CHEMBL2021748,False,False

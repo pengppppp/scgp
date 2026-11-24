@@ -1,0 +1,5 @@
+group,drugged,n,pct
+instrument universe (453),41,453,9.1
+MR-tested genes (371),36,371,9.7
+"background, not MR-tested (82)",5,82,6.1
+panel genes with instruments,41,453,9.1

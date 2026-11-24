@@ -1,0 +1,9 @@
+metric,value
+soma_scan_panel_genes,4925.0
+panel_genes,486.0
+panel_soma_detectable,329.0
+panel_soma_detectable_pct,67.7
+background_soma_detectable_pct,14.9
+enrichment_fold,4.55
+instrumented_genes,453.0
+instrumented_soma_detectable_pct,68.2

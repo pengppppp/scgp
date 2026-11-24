@@ -1,0 +1,52 @@
+[05:18:45] Module A start | dataset=GSE242425 | contrast=hypoxia-injury/repair vs normoxia
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:45]   h1_d20 (hypoxia/injury_d20): 1011 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:45]   h1_d25 (hypoxia/repair_d25): 959 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:45]   h2_d20 (hypoxia/injury_d20): 897 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:46]   h2_d25 (hypoxia/repair_d25): 1168 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:46]   h3_d20 (hypoxia/injury_d20): 1008 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:46]   h3_d25 (hypoxia/repair_d25): 1049 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:46]   n1_d20 (normoxia/injury_d20): 1061 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:47]   n1_d25 (normoxia/repair_d25): 942 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:47]   n2_d20 (normoxia/injury_d20): 1089 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:47]   n2_d25 (normoxia/repair_d25): 645 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:47]   n3_d20 (normoxia/injury_d20): 1003 cells x 36601 genes
+<user-home>\.workbuddy\binaries\python\envs\default\Lib\site-packages\scanpy\readwrite.py:248: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  adata = adata.copy()
+[05:18:48]   n3_d25 (normoxia/repair_d25): 869 cells x 36601 genes
+[05:18:48] loaded 11701 cells x 36601 genes
+[05:18:50] QC filter: 11701 -> 11459 cells
+<user-home>\.workbuddy\binaries\python\versions\3.13.12\Lib\functools.py:934: UserWarning: zero-centering a sparse array/matrix densifies it.
+  return dispatch(args[0].__class__)(*args, **kw)
+[05:18:59] replicate structure: {'hypoxia': 3, 'normoxia': 3} (key=line); batch collinear with condition: True
+[05:19:02] batch correction: none (batch collinear with condition at n<5/group; inference at donor level via pseudobulk)
+[05:19:45] condition ASW on PCA embedding: 0.038 (0 = perfectly mixed by condition; >0.1 = conditions separated in the embedding. With n=3 donors per condition and NO batch correction, a positive ASW is EXPECTED and is the reason all condition inference is done at the donor/pseudobulk level rather than on embeddings)
+[05:19:49] lineage assignment: 10522/11459 cells assigned (threshold: score>0, margin>0.02)
+[05:20:15] pseudobulk DEGs (hypoxia-injury/repair vs normoxia): 20354 nominal (p<0.05, |log2FC|>=0.5) of 301222 tests; 94 survive BH-FDR correction (expected: with n=3 donors per condition, donor-level FDR control is extremely stringent - reported transparently; downstream claims do not rely on single-DEG significance)
+[05:20:15]   state panel injury: 8/8 genes present
+[05:20:20]   state panel maladaptive_repair: 8/8 genes present
+[05:20:25]   state panel fibroblast_activation: 8/8 genes present
+[05:20:31] Module A done for GSE242425: cells=11459, lineages=16, clusters=22
+[05:20:31] outputs -> D:\Journal of Translational Medicine\data\processed | D:\Journal of Translational Medicine\results\tables | D:\Journal of Translational Medicine\results\figures
+A1_EXIT=0
